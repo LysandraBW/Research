@@ -1,0 +1,182 @@
+04/07/2025
+
+10:35 AM
+It seems that the SVO method is too accepting.
+Or, is there a bug? Who knows! Let's do some inspecting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Possessive Context
+Find the possessive context of nouns (the returned subject and objects).
+2. Integrate Find and Filter
+Load the research papers into a CSV. Filter these research papers with
+the function. Load the filtered research papers into another CSV.
+3. Test
+See whether it's working or not with the papers mentioned in the proposal.
+
+4/6/2025
+10:45 AM
+Working on the possessive context of nouns.
+Could use Stanza for this, it seems to be more useful for dependency parsing.
+However, it would be easier to continue using SpaCy as we have already been
+using it.
+
+Examples:
+"The book's pages."
+    => ["book", "pages"]
+"The pages of the book."
+    => ["book", "pages"]
+"The book, which had withered pages, was sent to a restoration library."
+    => ["book", "pages"]
+"The pages, which had become withered, belonged to a book of ancient grandeur."
+    => ["book", "pages"]
+"The pages, which had been torn over the years, of the book were brown."
+    => ["book", "pages"]
+    => ["pages", "torn"]
+
+Methodology:
+1. Use ["poss"] or ["nmod:poss", "nmod"] relationships in SpaCy and Stanza, respectively.
+    1.1. "The book's pages."
+    1.2. "The pages of the book." (Stanza)
+2. Look for a preposition ["prep"] that connects to another noun via a ["pobj"] in SpaCy.
+    2.1. "The pages of the book."
+3. Look for an ["appos", "conj"] relationship in SpaCy or Stanza.
+    3.1. "The book, specifically the pages thereof"
+    3.2. "The book, and the pages thereof"
+    3.3. "The book, or the pages thereof"
+4. Using coreference we can deduce that "pages" and "which" are referring to the same thing. Therefore,
+instead of finding a relationship between "pages" and "which", we can immediately use "which". This assumes
+that the coreference works properly. Anyway, in Stanza we could look for a noun -> [nsubj] -> * -> [obj|obl] -> noun
+relationship. In SpaCy, we could use a noun -> [nsubj] -> * -> [dobj] -> noun or noun -> [nsubj] -> [prep] -> [pobj] relationship.
+    4.1. "The book, which had withered pages, was sent to a restoration library"
+5. Loosely speaking you could use a relationship like [acl:relcl] -> [obl] in Stanza.
+
+Methodology Takeaway:
+SpaCy is likely the easier tool to use, not that Stanza wouldn't be helpful. SpaCy seems to create more simpler structures
+and provides a matcher that would reduce the amount of time it takes to code these rules.
+    1. What Rules?
+    You only have a small subset of the possible structures someone (or something) could create. While that is true,
+    I won't know if this is a viable solution or not until I try it out. Therefore, I will try and summarize the rules,
+    use SpaCy's matcher to carry out those rules, and proceed from there.
+
+11:36 AM BREAK
+
+03:17 PM
+I'm going to learn how to use SpaCy's dependency matcher so that I can figure out the aforementioned rules.
+https://spacy.io/usage/rule-based-matching#dependencymatcher
+
+03:43 PM BREAK
+I feel my attention shifting so I am going to pause for like 5 minutes.
+Anyway, I've figured out the first rule.
+
+03:49 PM
+On to the next rule.
+On to the next next rule.
+On to the next next next rule.
+On to the next next next next rule.
+
+Now that I have three simple patterns to match, I should figure out whether they work or not.
+I'm going to try and standardize the patterns (i.e. use the same words for the owned and the owner).
+Then, I'm going to find maybe 10-20 sentences that have an owner-owned relationship going on. I'll try
+out the matcher on these sentences, and then I'll continue from there.
+
+It seems to work relatively fine. There are some mishaps, some recalls if you will, but I'll have to accept them for now.
+I'm going to take a Donkey Kong break.
+
+04:59 PM BREAK
+
+06:06 PM
+I am now going to finish the filter function. Wish me the best.
+    06:32 PM: It's working, but it is a bit too accepting of what counts and what doesn't. However, I am still happy that
+    there's something working, so I'll just work on that later. I'm going to try and get a workflow going.
+
+06:34 PM BREAK
+I know I didn't do much between now and then, but sometimes you feel a bit overwhelmed even if you're not feeling that
+overwhelmed? Cannot explain it.
+
+07:08 PM
+What am I doing right now? I am going to make two files: Find.ipynb and Filter.ipynb.
+Find.ipynb will find a set of research papers given another set of keywords. I don't have access to Web of Science's API key
+so I can only use OpenAlex right now. I checked and I still didn't get an API key, so OpenAlex will be the only source right now.
+Let's say that I'll get X papers. X can be like 10 for now since we're in production.
+Then I'll make the Filter.ipynb file. This will read in those files, and write the satisfactory files to another thing.
+Then, I'll check to see what the results are looking like.
+
+I see that I'm jumping head first into a pool of sharks. I need to ask myself: "what am I writing to the CSV file?"
+Well. The paper's title, author, full text, perhaps the DOI for reference? Although I can do the snowballing effect,
+I don't think I'm going to store the paper's citations and/or references, you'd just find that later on and add it to
+the set.
+
+Ok. So maybe for each source there's like a number of papers we want to find (until there's no more). What about keywords?
+What if 1 keyword produces 1,000 results and another keyword produces 500 results, but you have a limit of 500? Maybe we
+just get as much as possible (setting the threshold to INF) when it's time to actually search. For now the limit for each
+keyword could be like 10.
+
+08:57 PM BREAK
+I have the basics of the Find.ipynb file figured out.
+Now onto the Filter.ipynb function. I just ate an orange and my head hurts.
+So I AM GOING TO TAKE A BREAK.
+
+09:50 PM
+Filter.ipynb function here we go!
+
+** NOTE: IF CAN'T FIND FULL TEXT USE ABSTRACT!
+
+Well, I got somewhere today. I'm afraid the function is working a bit too broadly? I don't know, I have to do more inspection,
+but it feels like it's accepting anything under the sun. :-( We shall see. Tomorrow?

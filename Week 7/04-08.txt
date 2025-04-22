@@ -1,0 +1,94 @@
+What is a trait?
+
+A lion's leg height.
+A lion's 401K.
+
+Aren't these all traits?
+
+"organic matter content in vegetated sediments"
+Is that a trait?
+
+Sometimes the article will mention "trait"
+Will all articles and/or sentences on a more finer level do that? 
+
+what is a trait if not a characteristic? what is a characteristic if not something owned?
+
+There's also like tangible changes, like increase, decrease, no change
+
+OOOOOOOOOO MAYBE THAT'S THE KEY
+? not necessarily
+the verb may be the increase, the subject/object may be the inc and so on
+
+KIND OF GOT SOMETHING GOIN ON THE DEVILS IN THE DETAILS?
+
+ok test: load the full text into strings n check the accuracy...
+
+and then fine tune the filter to check whether it's improving or not... tea!
+
+so looking for words...............................................................
+result & discussion
+
+there was also like find the noun chunks of the clusters n stuff but
+
+what's more is the possession
+what is a trait if not a characteristic that is owned by something? i mean ofc we're talking biological traits
+so i dont think ud hear that an octopus' 401k has decreased since trump was in office.
+
+if you can find the species you could reasonably/arguably assume that the owned is the trait...so yes
+and then you can look for an increase/decrease type of thing going on? need to do more reading
+
+also adjectives? "clipped" trees, would the "clipped" be a trait? well... kind of
+
+
+the words when and by WHAT ARE THOSE AND WHY could they be like because? i think so well not necessarily but it's indicating
+a (possible) relationship
+
+how to find a trait that uses multiple words?
+
+what are we looking for species affecting another species
+
+or how traits are being changed? well both but moreso the latter
+
+svo triple not picking up on svo triple :-(
+
+need to be able to handle that? possibly
+
+okkkkkkkkkkkkkkkkkk what happens then.......... maybyeeeeeeeeeeee argh its a lot
+maybe we don't handle these? and hope that there's another sentence that's worded more nicely?
+
+also potential issue ur finding instances, assuming everything goes right, that ur just finding examples of trait being modified how do u make sure tht it
+'s interaction
+
+
+maybe chunking the parts of a sentence and like finding whether there's an increase and a reason?
+.... was .... when
+OOOH maybe, but like how many ways can someone structure a sentence like this... like could
+you create a automatic way hm idk
+
+let's see
+pause...
+
+tea...
+
+
+
+there's levels to this you and i know
+u dont have to do everythingat once
+u could have like levels or filters or something like so
+
+there's certain sentences that dont have an SVO triple and i think relying that there's maybe a sentence that folllows the typical
+SVO structure is a bit risky.
+
+well there's like simple structures
+
+idk
+
+if it's not the clear svo trip, probs due to just structure
+there's still a kind of pattern
+it's kind of like trait, how trait changed, why trait changed
+why trait trait changed, how trait changed, trait
+but how can u reasonably extract that without svo
+
+u can assume that bc they're in the same sentence they follow one afte rthe other so maybe it's a matter of chunking?
+
+maybe chop up sentences by conjunction

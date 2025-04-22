@@ -1,0 +1,17 @@
+10:35 AM START
+
+11:49 AM BREAK
+I've gotten the examples done, I've run some tests, and I think I need more examples that are supposed to fail -- so I can have an idea of what to add to the "threshold".
+Anyway I am taking a break now.
+
+12:54 PM
+Now to analyze what's going wrong!
+
+3:00 BREAK
+Had meeting with Veronica, learned a lot more!
+
+06:38 PM
+Thinking in levels, we can more or less detect sentences that describe a species acting upon another species in some way or another.
+
+07:36 PM DONE
+Not feeling productive, I need to figure out a more thoughtful method. Later though my brain is shot.
