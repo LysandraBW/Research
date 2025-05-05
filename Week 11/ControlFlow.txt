@@ -1,0 +1,33 @@
+Extracting Information from Text
+1. Find the Cause
+First, we look for a token that is the start of a cause. For example, the word "because" is typically the start of a clause that defines a cause. We look for the cause first to make sure that a species mentioned in the cause is not mistakened for the species being affected. If we find a token that delineates the beginning of a causative clause, we greedily expand to include all the relevant information for that clause. This is done by literally expanding the boundary of that initial token until we reach a token that is not a part of an acceptable set. In case of lists, we also call a function to include a list, if any -- without this function, the list would be omitted and it may (and has) caused problems further on.
+
+2. Find the Change
+Next, we look for the change. The change is typically a word like "increase", "decrease", "shift", and so on. It could also be a quantitative description, like "by 20%" for example. Unlike the cause, the change is not greedy, we only look for the one word that reflects the direction the trait changed in, if any. To look for how something changed (i.e., the amount) we look for ADPs. These tokens usually start the clause we're looking for. Like the cause, we sparsely expand until we have a set of tokens that likely contains the information that we're looking for. Then, we check whether this information is sufficient, and we continue as needed.
+
+3. Find the Species
+Now that certain tokens have been removed from the pool, the problem becomes clearer. We look for a token that has been flagged as a species. We also take its surrounding context (whether there are nearby adjectives or there is a conjunct paired with the species). However, this is not greedy like the cause as we are purely looking for species.
+
+4. Find the Trait
+There are three ways (which could be two depending on your perspective) of finding a trait: species and change. A trait is a property of a species. A trait is also being changed. Thus, we will use these two characteristics to hopefully find the trait in question. First, we look to see whether the species mentioned "owns" a token in the current range. If it does, we add it to the pool. Keep in mind that we should be making sure that we are only considering unused tokens. However, we must check that the trait is being changed, as that is the point of this project. Therefore, we look at the ancestors of the contendors to see whether there's a keyword that has been flagged as "change". If there is no species, we check the surrounding area of the change keyword, if it's a noun, chances are that it is the trait (e.g. in "diet shifts from grass to herbs", the diet is the trait). If not, we look for something like "an increase in...".
+
+This is too much work to type out, what the heck!
+
+1. Find the Cause
+    - Greedy
+2. Find the Change
+    - Not Greedy
+3. Find the Detailed Change
+    - Not Really Greedy
+3. Find the Species
+    - Not Really Greedy
+4. Find the Trait
+    - Not Really Greedy
+5. Find the Cause
+    - Greedy
+
+* Make Sure to Use the Unused
+* Use Sets
+* Break into Functions
+* Use Clusters
+* Make it Better
