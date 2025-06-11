@@ -1,0 +1,1274 @@
+Data Shape: (4, 4)
+Data Shape: (3, 4)
+Number of Texts: 3
+1/3 - RESOURCE COMPETITION MODIFIES THE STRENGTH OF TRAIT-MEDIATED PREDATOR–PREY INTERACTIONS: A META-ANALYSIS
+[(364, 416), (474, 476)]
+[(618, 698), (767, 811)]
+[(636, 698), (787, 811)]
+[(974, 1020), (1042, 1053)]
+[(813, 815), (1256, 1258), (1340, 1343)]
+[(1267, 1280), (1340, 1351)]
+
+
+
+
+Cluster Map
+{63: [nonconsumptive, impact, of, predation, risk, on, prey, it], 64: [This, impact, of, predation, risk, on, prey, it], 65: [This, nonconsumptive, of, predation, risk, on, prey, it], 66: [This, nonconsumptive, impact, predation, risk, on, prey, it], 67: [This, nonconsumptive, impact, of, risk, on, prey, it], 68: [This, nonconsumptive, impact, of, predation, on, prey, it], 69: [This, nonconsumptive, impact, of, predation, risk, prey, it], 70: [This, nonconsumptive, impact, of, predation, risk, on, it], 83: [This, nonconsumptive, impact, of, predation, risk, on, prey], 107: [balance, between, the, conflicting, demands, of, reproduction, vs., predator, avoidance, the, balance, between, these, conflicting, forces], 108: [a, between, the, conflicting, demands, of, reproduction, vs., predator, avoidance, the, balance, between, these, conflicting, forces], 109: [a, balance, the, conflicting, demands, of, reproduction, vs., predator, avoidance, the, balance, between, these, conflicting, forces], 110: [conflicting, demands, of, reproduction, vs., predator, avoidance, these, conflicting, forces], 111: [the, demands, of, reproduction, vs., predator, avoidance, these, conflicting, forces], 112: [the, conflicting, of, reproduction, vs., predator, avoidance, these, conflicting, forces], 113: [the, conflicting, demands, reproduction, vs., predator, avoidance, these, conflicting, forces], 114: [the, conflicting, demands, of, vs., predator, avoidance, these, conflicting, forces], 115: [the, conflicting, demands, of, reproduction, predator, avoidance, these, conflicting, forces], 116: [the, conflicting, demands, of, reproduction, vs., avoidance, these, conflicting, forces], 117: [the, conflicting, demands, of, reproduction, vs., predator, these, conflicting, forces], 128: [a, balance, between, the, conflicting, demands, of, reproduction, vs., predator, avoidance, balance, between, these, conflicting, forces], 129: [a, balance, between, the, conflicting, demands, of, reproduction, vs., predator, avoidance, the, between, these, conflicting, forces], 130: [a, balance, between, the, conflicting, demands, of, reproduction, vs., predator, avoidance, the, balance, these, conflicting, forces], 131: [the, conflicting, demands, of, reproduction, vs., predator, avoidance, conflicting, forces], 132: [the, conflicting, demands, of, reproduction, vs., predator, avoidance, these, forces], 133: [the, conflicting, demands, of, reproduction, vs., predator, avoidance, these, conflicting], 159: [overall, negative, effect, on, prey, performance, this, effect], 160: [an, negative, effect, on, prey, performance, this, effect], 161: [an, overall, effect, on, prey, performance, this, effect], 162: [an, overall, negative, on, prey, performance, this, effect], 163: [an, overall, negative, effect, prey, performance, this, effect], 164: [an, overall, negative, effect, on, performance, this, effect], 165: [an, overall, negative, effect, on, prey, this, effect], 171: [an, overall, negative, effect, on, prey, performance, effect], 172: [an, overall, negative, effect, on, prey, performance, this], 135: [We, Our], 205: [We, Our], 217: [these, results, results], 207: [results, Our, results], 208: [these, Our, results], 218: [these, results, Our]}
+Species Spans:
+	
+--
+Points: 0
+Adjusted Points (11 Sentences): 0.0
+	Visited Species:
+		
+--
+Less Than 3 Species Visited, 0 Points
+2/3 - Trait-Mediated Effects of Parasitic Phorid Flies (Diptera: Phoridae) on Ant (Hymenoptera: Formicidae) Competition and Resource Access in Coffee Agro-ecosystems
+[(340, 365), (367, 372)]
+[(367, 410), (501, 514), (747, 760), (838, 851), (1303, 1316)]
+[(306, 307), (720, 721)]
+
+
+
+
+Cluster Map
+{44: [(, sp., their], 45: [phorids, sp., their], 47: [phorids, (, their], 50: [ant, host, (, instabilis, F., Smith, A., instabilis, A., instabilis, A., instabilis, A., instabilis], 51: [their, host, (, instabilis, F., Smith, A., instabilis, A., instabilis, A., instabilis, A., instabilis], 52: [their, ant, (, instabilis, F., Smith, A., instabilis, A., instabilis, A., instabilis, A., instabilis], 53: [their, ant, host, instabilis, F., Smith, A., instabilis, A., instabilis, A., instabilis, A., instabilis], 55: [their, ant, host, (, F., Smith, A., instabilis, A., instabilis, A., instabilis, A., instabilis], 56: [their, ant, host, (, instabilis, Smith, A., instabilis, A., instabilis, A., instabilis, A., instabilis], 57: [their, ant, host, (, instabilis, F., A., instabilis, A., instabilis, A., instabilis, A., instabilis], 74: [their, ant, host, (, instabilis, F., Smith, instabilis, A., instabilis, A., instabilis, A., instabilis], 75: [their, ant, host, (, instabilis, F., Smith, A., A., instabilis, A., instabilis, A., instabilis], 115: [their, ant, host, (, instabilis, F., Smith, A., instabilis, instabilis, A., instabilis, A., instabilis], 116: [their, ant, host, (, instabilis, F., Smith, A., instabilis, A., A., instabilis, A., instabilis], 133: [their, ant, host, (, instabilis, F., Smith, A., instabilis, A., instabilis, instabilis, A., instabilis], 134: [their, ant, host, (, instabilis, F., Smith, A., instabilis, A., instabilis, A., A., instabilis], 209: [their, ant, host, (, instabilis, F., Smith, A., instabilis, A., instabilis, A., instabilis, instabilis], 210: [their, ant, host, (, instabilis, F., Smith, A., instabilis, A., instabilis, A., instabilis, A.], 40: [I], 111: [I]}
+Species Spans:
+	'species' from 10-10
+	'phorid flies' from 16-17
+	'-' from 20-20
+	'interactions between' from 28-29
+	'or affecting' from 37-38
+	'interactions' from 44-44
+	'phorids (' from 46-47
+	')' from 51-51
+	'ant host (Azteca' from 54-57
+	', and' from 62-63
+	'testing whether' from 74-75
+	'(2' from 86-87
+	'competitive hierarchies' from 115-116
+	'monitored' from 119-119
+	'ants to' from 126-127
+	'canopy trees' from 133-134
+	'These results' from 193-194
+	'by affecting' from 209-210
+	'.' from 213-213
+	'phorids limit' from 216-217
+	'(' from 45-45
+	'their' from 50-50
+	'host' from 52-52
+	'(' from 53-53
+--
+
+Loop
+Sentence of Species: Predator effects on prey traits change competitive interactions between prey species affecting resource use.
+Species: 'species' from 10-10
+	Visited Species:
+		
+--
+Expanding Species
+\Expanding Species - Now: prey species
+Sentence of (Final) Expanded Species: Predator effects on prey traits change competitive interactions between prey species affecting resource use.
+Final Expanded Species: 'prey species' from 9-10
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affecting', 'change']
+Change (Causative) Verbs in L-Sentence: ['change']
+Change (Causative) Verbs in R-Sentence: ['affecting']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Species: 'phorid flies' from 16-17
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Final Expanded Species: 'phorid flies' from 16-17
+Looking for Past References
+	Comparing 'phorid flies' and 'prey species'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['changing', 'affecting']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['changing', 'affecting']
+Species in L-Sentence: []
+Species in R-Sentence: ['or', 'affecting', '-', 'interactions', 'between']
+Added 10 Points for Species, Now 10
+
+Loop
+Sentence of Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Species: '-' from 20-20
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Final Expanded Species: '-' from 20-20
+Looking for Past References
+	Comparing '-' and 'prey species'
+	Comparing '-' and 'phorid flies'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['changing', 'affecting']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['changing', 'affecting']
+Species in L-Sentence: ['phorid', 'flies']
+Species in R-Sentence: ['or', 'interactions', 'between', 'affecting']
+Added 10 Points for Species, Now 20
+
+Loop
+Sentence of Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Species: 'interactions between' from 28-29
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 1 times.
+		'-' from 20-20 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Final Expanded Species: 'interactions between' from 28-29
+Looking for Past References
+	Comparing 'interactions between' and 'prey species'
+	Comparing 'interactions between' and 'phorid flies'
+	Comparing 'interactions between' and '-'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['changing', 'affecting']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['changing', 'affecting']
+Species in L-Sentence: ['phorid', 'flies', '-']
+Species in R-Sentence: ['or', 'affecting']
+Added 10 Points for Species, Now 30
+
+Loop
+Sentence of Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Species: 'or affecting' from 37-38
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 1 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Parasitic phorid flies limit competitive-dominant ant activity, potentially meditating competitive interactions between ant species, changing competitive hierarchies, or affecting ant communities.
+Final Expanded Species: 'or affecting' from 37-38
+Looking for Past References
+	Comparing 'or affecting' and 'prey species'
+	Comparing 'or affecting' and 'phorid flies'
+	Comparing 'or affecting' and '-'
+	Comparing 'or affecting' and 'interactions between'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['changing', 'affecting']
+Change (Causative) Verbs in L-Sentence: ['changing']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['phorid', 'flies', '-', 'interactions', 'between']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 40
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'interactions' from 44-44
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 1 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 1 times.
+		'or affecting' from 37-38 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'interactions' from 44-44
+Looking for Past References
+	Comparing 'interactions' and 'prey species'
+	Comparing 'interactions' and 'phorid flies'
+	Comparing 'interactions' and '-'
+	Comparing 'interactions' and 'interactions between'
+	'interactions' == 'interactions between'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: []
+Species in R-Sentence: ['between', 'phorids', '(', '.', ')', ',', 'their', 'ant', 'host', '(', 'Azteca', ',', 'and', 'testing', 'whether', '(', '2', 'competitive', 'hierarchies']
+Added 20 Points for Species, Now 60
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'phorids (' from 46-47
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 1 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'phorids (' from 46-47
+Looking for Past References
+	Comparing 'phorids (' and 'prey species'
+	Comparing 'phorids (' and 'phorid flies'
+	'phorids (' == 'phorid flies'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: ['interactions', 'between']
+Species in R-Sentence: ['testing', 'whether', '.', ')', 'competitive', 'hierarchies', 'ant', 'host', '(', 'Azteca', '(', '2', ',', 'their', ',', 'and']
+Added 20 Points for Species, Now 80
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: ')' from 51-51
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: ')' from 51-51
+Looking for Past References
+	Comparing ')' and 'prey species'
+	Comparing ')' and 'phorid flies'
+	Comparing ')' and '-'
+	Comparing ')' and 'interactions between'
+	Comparing ')' and 'or affecting'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(', '.']
+Species in R-Sentence: ['testing', 'whether', 'competitive', 'hierarchies', ',', 'ant', 'host', '(', 'Azteca', '(', '2', 'their', ',', 'and']
+Added 10 Points for Species, Now 90
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'ant host (Azteca' from 54-57
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'ant host (Azteca' from 54-57
+Looking for Past References
+	Comparing 'ant host (Azteca' and 'prey species'
+	Comparing 'ant host (Azteca' and 'phorid flies'
+	Comparing 'ant host (Azteca' and '-'
+	Comparing 'ant host (Azteca' and 'interactions between'
+	Comparing 'ant host (Azteca' and 'or affecting'
+	Comparing 'ant host (Azteca' and ')'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(', '.', ')', ',', 'their']
+Species in R-Sentence: ['testing', 'whether', 'competitive', 'hierarchies', '(', '2', ',', 'and']
+Added 10 Points for Species, Now 100
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: ', and' from 62-63
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: ', and' from 62-63
+Looking for Past References
+	Comparing ', and' and 'prey species'
+	Comparing ', and' and 'phorid flies'
+	Comparing ', and' and '-'
+	Comparing ', and' and 'interactions between'
+	Comparing ', and' and 'or affecting'
+	Comparing ', and' and ')'
+	Comparing ', and' and 'ant host (Azteca'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(', '.', ')', ',', 'their', 'ant', 'host', '(', 'Azteca']
+Species in R-Sentence: ['testing', 'whether', 'competitive', 'hierarchies', '(', '2']
+Added 10 Points for Species, Now 110
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'testing whether' from 74-75
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 1 times.
+		', and' from 62-63 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'testing whether' from 74-75
+Looking for Past References
+	Comparing 'testing whether' and 'prey species'
+	Comparing 'testing whether' and 'phorid flies'
+	Comparing 'testing whether' and '-'
+	Comparing 'testing whether' and 'interactions between'
+	Comparing 'testing whether' and 'or affecting'
+	Comparing 'testing whether' and ')'
+	Comparing 'testing whether' and 'ant host (Azteca'
+	Comparing 'testing whether' and ', and'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(', '.', ')', ',', 'their', 'ant', 'host', '(', 'Azteca', ',', 'and']
+Species in R-Sentence: ['competitive', 'hierarchies', '(', '2']
+Added 10 Points for Species, Now 120
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: '(2' from 86-87
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 1 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: '(2' from 86-87
+Looking for Past References
+	Comparing '(2' and 'prey species'
+	Comparing '(2' and 'phorid flies'
+	Comparing '(2' and '-'
+	Comparing '(2' and 'interactions between'
+	Comparing '(2' and 'or affecting'
+	Comparing '(2' and ')'
+	Comparing '(2' and 'ant host (Azteca'
+	'(2' == 'ant host (Azteca'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect', 'change']
+Species in L-Sentence: ['testing', 'whether', 'interactions', 'between', 'phorids', '(', '.', ')', ',', 'their', 'ant', 'host', '(', 'Azteca', ',', 'and']
+Species in R-Sentence: ['competitive', 'hierarchies']
+Added 20 Points for Species, Now 140
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'competitive hierarchies' from 115-116
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 2 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'competitive hierarchies' from 115-116
+Looking for Past References
+	Comparing 'competitive hierarchies' and 'prey species'
+	Comparing 'competitive hierarchies' and 'phorid flies'
+	Comparing 'competitive hierarchies' and '-'
+	Comparing 'competitive hierarchies' and 'interactions between'
+	Comparing 'competitive hierarchies' and 'or affecting'
+	Comparing 'competitive hierarchies' and ')'
+	Comparing 'competitive hierarchies' and 'ant host (Azteca'
+	Comparing 'competitive hierarchies' and ', and'
+	Comparing 'competitive hierarchies' and 'testing whether'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affect', 'change']
+Change (Causative) Verbs in L-Sentence: ['affect', 'change']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['testing', 'whether', 'interactions', 'between', 'phorids', '(', '.', ')', ',', 'their', 'ant', 'host', '(', 'Azteca', '(', '2', ',', 'and']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 150
+
+Loop
+Sentence of Species: I monitored recruitment of A. instabilis and other ants to baits over 90 min on canopy trees with or without phorids.
+Species: 'monitored' from 119-119
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 2 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I monitored recruitment of A. instabilis and other ants to baits over 90 min on canopy trees with or without phorids.
+Final Expanded Species: 'monitored' from 119-119
+Looking for Past References
+	Comparing 'monitored' and 'prey species'
+	Comparing 'monitored' and 'phorid flies'
+	Comparing 'monitored' and '-'
+	Comparing 'monitored' and 'interactions between'
+	Comparing 'monitored' and 'or affecting'
+	Comparing 'monitored' and ')'
+	Comparing 'monitored' and 'ant host (Azteca'
+	Comparing 'monitored' and ', and'
+	Comparing 'monitored' and 'testing whether'
+	Comparing 'monitored' and 'competitive hierarchies'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: I monitored recruitment of A. instabilis and other ants to baits over 90 min on canopy trees with or without phorids.
+Species: 'ants to' from 126-127
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 2 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I monitored recruitment of A. instabilis and other ants to baits over 90 min on canopy trees with or without phorids.
+Final Expanded Species: 'ants to' from 126-127
+Looking for Past References
+	Comparing 'ants to' and 'prey species'
+	Comparing 'ants to' and 'phorid flies'
+	Comparing 'ants to' and '-'
+	Comparing 'ants to' and 'interactions between'
+	Comparing 'ants to' and 'or affecting'
+	Comparing 'ants to' and ')'
+	Comparing 'ants to' and 'ant host (Azteca'
+	'ants to' == 'ant host (Azteca'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: I monitored recruitment of A. instabilis and other ants to baits over 90 min on canopy trees with or without phorids.
+Species: 'canopy trees' from 133-134
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I monitored recruitment of A. instabilis and other ants to baits over 90 min on canopy trees with or without phorids.
+Final Expanded Species: 'canopy trees' from 133-134
+Looking for Past References
+	Comparing 'canopy trees' and 'prey species'
+	Comparing 'canopy trees' and 'phorid flies'
+	Comparing 'canopy trees' and '-'
+	Comparing 'canopy trees' and 'interactions between'
+	Comparing 'canopy trees' and 'or affecting'
+	Comparing 'canopy trees' and ')'
+	Comparing 'canopy trees' and 'ant host (Azteca'
+	Comparing 'canopy trees' and ', and'
+	Comparing 'canopy trees' and 'testing whether'
+	Comparing 'canopy trees' and 'competitive hierarchies'
+	Comparing 'canopy trees' and 'monitored'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: These results indicate that phorids mediate competitive interactions between ant species and may influence ant communities by affecting resource availability.
+Species: 'These results' from 193-194
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These results indicate that phorids mediate competitive interactions between ant species and may influence ant communities by affecting resource availability.
+Final Expanded Species: 'These results' from 193-194
+Looking for Past References
+	Comparing 'These results' and 'prey species'
+	Comparing 'These results' and 'phorid flies'
+	Comparing 'These results' and '-'
+	Comparing 'These results' and 'interactions between'
+	Comparing 'These results' and 'or affecting'
+	Comparing 'These results' and ')'
+	Comparing 'These results' and 'ant host (Azteca'
+	Comparing 'These results' and ', and'
+	Comparing 'These results' and 'testing whether'
+	Comparing 'These results' and 'competitive hierarchies'
+	Comparing 'These results' and 'monitored'
+	Comparing 'These results' and 'canopy trees'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affecting', 'results', 'availability']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affecting', 'availability']
+Species in L-Sentence: []
+Species in R-Sentence: ['by', 'affecting', '.']
+Added 10 Points for Species, Now 160
+
+Loop
+Sentence of Species: These results indicate that phorids mediate competitive interactions between ant species and may influence ant communities by affecting resource availability.
+Species: 'by affecting' from 209-210
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 1 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These results indicate that phorids mediate competitive interactions between ant species and may influence ant communities by affecting resource availability.
+Final Expanded Species: 'by affecting' from 209-210
+Looking for Past References
+	Comparing 'by affecting' and 'prey species'
+	Comparing 'by affecting' and 'phorid flies'
+	Comparing 'by affecting' and '-'
+	Comparing 'by affecting' and 'interactions between'
+	Comparing 'by affecting' and 'or affecting'
+	'by affecting' == 'or affecting'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['affecting', 'results', 'availability']
+Change (Causative) Verbs in L-Sentence: ['results']
+Change (Causative) Verbs in R-Sentence: ['availability']
+Species in L-Sentence: ['These', 'results']
+Species in R-Sentence: ['.']
+Added 20 Points for Species, Now 180
+
+Loop
+Sentence of Species: These results indicate that phorids mediate competitive interactions between ant species and may influence ant communities by affecting resource availability.
+Species: '.' from 213-213
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These results indicate that phorids mediate competitive interactions between ant species and may influence ant communities by affecting resource availability.
+Final Expanded Species: '.' from 213-213
+Looking for Past References
+	Comparing '.' and 'prey species'
+	Comparing '.' and 'phorid flies'
+	Comparing '.' and '-'
+	Comparing '.' and 'interactions between'
+	Comparing '.' and 'or affecting'
+	Comparing '.' and ')'
+	Comparing '.' and 'ant host (Azteca'
+	Comparing '.' and ', and'
+	Comparing '.' and 'testing whether'
+	Comparing '.' and 'competitive hierarchies'
+	Comparing '.' and 'monitored'
+	Comparing '.' and 'canopy trees'
+	Comparing '.' and 'These results'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affecting', 'results', 'availability']
+Change (Causative) Verbs in L-Sentence: ['results', 'affecting', 'availability']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['These', 'results', 'by', 'affecting']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 190
+
+Loop
+Sentence of Species: Considering that phorids limit A. instabilis attacks on herbivores and that ant species differ in effects on arthropod communities, phorids may have strong community-level effects in coffee agro-ecosystems.
+Species: 'phorids limit' from 216-217
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 2 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+		'.' from 213-213 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Considering that phorids limit A. instabilis attacks on herbivores and that ant species differ in effects on arthropod communities, phorids may have strong community-level effects in coffee agro-ecosystems.
+Final Expanded Species: 'phorids limit' from 216-217
+Looking for Past References
+	Comparing 'phorids limit' and 'prey species'
+	Comparing 'phorids limit' and 'phorid flies'
+	'phorids limit' == 'phorid flies'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['differ']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: '(' from 45-45
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 3 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+		'.' from 213-213 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: '(' from 45-45
+Looking for Past References
+	Comparing '(' and 'prey species'
+	Comparing '(' and 'phorid flies'
+	Comparing '(' and '-'
+	Comparing '(' and 'interactions between'
+	Comparing '(' and 'or affecting'
+	Comparing '(' and ')'
+	Comparing '(' and 'ant host (Azteca'
+	Comparing '(' and ', and'
+	Comparing '(' and 'testing whether'
+	Comparing '(' and 'competitive hierarchies'
+	Comparing '(' and 'monitored'
+	Comparing '(' and 'canopy trees'
+	Comparing '(' and 'These results'
+	Comparing '(' and '.'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['affect']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect']
+Species in L-Sentence: ['interactions']
+Species in R-Sentence: ['testing', 'whether', 'phorids', '(', '.', ')', ',', 'their', 'ant', 'host', '(', 'Azteca', '(', '2', ',', 'and']
+Added 10 Points for Species, Now 200
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'their' from 50-50
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 3 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 1 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+		'.' from 213-213 visited 1 times.
+		'between' from 45-45 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'their' from 50-50
+Looking for Past References
+	Comparing 'their' and 'prey species'
+	Comparing 'their' and 'phorid flies'
+	Comparing 'their' and '-'
+	Comparing 'their' and 'interactions between'
+	Comparing 'their' and 'or affecting'
+	Comparing 'their' and ')'
+	'their' == ')'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['affect']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(']
+Species in R-Sentence: ['testing', 'whether', ')', ',', 'their', 'ant', 'host', '(', 'Azteca', '(', '2', ',', 'and']
+Added 20 Points for Species, Now 220
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: 'host' from 52-52
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 3 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 2 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+		'.' from 213-213 visited 1 times.
+		'between' from 45-45 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: 'host' from 52-52
+Looking for Past References
+	Comparing 'host' and 'prey species'
+	Comparing 'host' and 'phorid flies'
+	Comparing 'host' and '-'
+	Comparing 'host' and 'interactions between'
+	Comparing 'host' and 'or affecting'
+	Comparing 'host' and ')'
+	'host' == ')'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['affect']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(', '.', ')']
+Species in R-Sentence: ['testing', 'whether', 'their', 'ant', 'host', '(', 'Azteca', '(', '2', ',', 'and']
+Added 30 Points for Species, Now 250
+
+Loop
+Sentence of Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Species: '(' from 53-53
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 3 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 3 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+		'.' from 213-213 visited 1 times.
+		'between' from 45-45 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: I considered interactions between phorids (Pseudacteon sp.), their ant host (Azteca instabilis F. Smith), and co-occurring ant species in coffee agro-ecosystems testing whether phorids (1) limit A. instabilis recruitment activity, (2) affect competitive interaction between ant species, and (3) are associated with other species' resource access and therefore have the potential to change competitive hierarchies.
+Final Expanded Species: '(' from 53-53
+Looking for Past References
+	Comparing '(' and 'prey species'
+	Comparing '(' and 'phorid flies'
+	Comparing '(' and '-'
+	Comparing '(' and 'interactions between'
+	Comparing '(' and 'or affecting'
+	Comparing '(' and ')'
+	'(' == ')'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['affect']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['affect']
+Species in L-Sentence: ['interactions', 'between', 'phorids', '(', '.', ')', ',']
+Species in R-Sentence: ['testing', 'whether', 'ant', 'host', '(', 'Azteca', '(', '2', ',', 'and']
+Added 40 Points for Species, Now 290
+Points: 290
+Adjusted Points (9 Sentences): 32.22222222222222
+	Visited Species:
+		'prey species' from 9-10 visited 1 times.
+		'phorid flies' from 16-17 visited 3 times.
+		'-' from 20-20 visited 1 times.
+		'interactions between' from 28-29 visited 2 times.
+		'or affecting' from 37-38 visited 2 times.
+		')' from 51-51 visited 4 times.
+		'ant host (Azteca' from 54-57 visited 3 times.
+		', and' from 62-63 visited 1 times.
+		'testing whether' from 74-75 visited 1 times.
+		'competitive hierarchies' from 115-116 visited 1 times.
+		'monitored' from 119-119 visited 1 times.
+		'canopy trees' from 133-134 visited 1 times.
+		'These results' from 193-194 visited 1 times.
+		'.' from 213-213 visited 1 times.
+		'between' from 45-45 visited 1 times.
+--
+32.22222222222222 Points
+3/3 - A multifaceted trophic cascade in a detritus‐based system: density‐, trait‐, or processing‐chain‐mediated effects?
+[(0, 2), (392, 394), (649, 651), (1305, 1307), (1804, 1806)]
+[(16, 138), (402, 416), (1826, 1844)]
+[(900, 909), (945, 956)]
+[(525, 573), (1126, 1140), (1204, 1218), (1413, 1427)]
+[(1180, 1187), (1246, 1257)]
+
+
+
+
+Cluster Map
+{0: [We, we, We, we], 61: [We, we, We, we], 100: [We, We, We, we], 214: [We, We, we, we], 300: [We, We, we, We], 2: [pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 3: [three, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 4: [three, pathways, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 5: [three, pathways, by, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 6: [three, pathways, by, which, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 7: [three, pathways, by, which, predators, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 8: [three, pathways, by, which, predators, on, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 9: [three, pathways, by, which, predators, on, an, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 10: [three, pathways, by, which, predators, on, an, intermediate, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 11: [three, pathways, by, which, predators, on, an, intermediate, trophic, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 12: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 13: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 14: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 15: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, cascade, in, detritus‐based, systems, these, pathways, all, three, pathways], 16: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, in, detritus‐based, systems, these, pathways, all, three, pathways], 17: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, detritus‐based, systems, these, pathways, all, three, pathways], 18: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, systems, these, pathways, all, three, pathways], 19: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, these, pathways, all, three, pathways], 63: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, pathways, all, three, pathways], 64: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, all, three, pathways], 304: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, three, pathways], 305: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, pathways], 306: [three, pathways, by, which, predators, on, an, intermediate, trophic, level, may, produce, a, trophic, cascade, in, detritus‐based, systems, these, pathways, all, three], 147: [this, effect], 155: [increased, effect], 156: [increased, this], 79: [Aedes, triseriatus, which, feed, on, bacteria, A., triseriatus, A., triseriatus, A., triseriatus], 80: [larval, triseriatus, which, feed, on, bacteria, A., triseriatus, A., triseriatus, A., triseriatus], 81: [larval, Aedes, which, feed, on, bacteria, A., triseriatus, A., triseriatus, A., triseriatus], 83: [larval, Aedes, triseriatus, feed, on, bacteria, A., triseriatus, A., triseriatus, A., triseriatus], 84: [larval, Aedes, triseriatus, which, on, bacteria, A., triseriatus, A., triseriatus, A., triseriatus], 85: [larval, Aedes, triseriatus, which, feed, bacteria, A., triseriatus, A., triseriatus, A., triseriatus], 86: [larval, Aedes, triseriatus, which, feed, on, A., triseriatus, A., triseriatus, A., triseriatus], 184: [larval, Aedes, triseriatus, which, feed, on, bacteria, triseriatus, A., triseriatus, A., triseriatus], 185: [larval, Aedes, triseriatus, which, feed, on, bacteria, A., A., triseriatus, A., triseriatus], 195: [larval, Aedes, triseriatus, which, feed, on, bacteria, A., triseriatus, triseriatus, A., triseriatus], 196: [larval, Aedes, triseriatus, which, feed, on, bacteria, A., triseriatus, A., A., triseriatus], 233: [larval, Aedes, triseriatus, which, feed, on, bacteria, A., triseriatus, A., triseriatus, triseriatus], 234: [larval, Aedes, triseriatus, which, feed, on, bacteria, A., triseriatus, A., triseriatus, A.], 192: [this, effect], 203: [reduced, effect], 204: [reduced, this]}
+Species Spans:
+	'bacteria' from 28-28
+	'mosquitoes' from 69-69
+	'Toxorhynchites rutilus' from 75-76
+	'Aedes triseriatus' from 80-81
+	'larvae' from 131-131
+	'Aedes triseriatus larvae' from 162-164
+	'A. triseriatus' from 184-185
+	'A. triseriatus' from 195-196
+	'A. triseriatus' from 233-234
+	'T. rutilus' from 313-314
+	'bacteria' from 316-316
+	'larval' from 79-79
+	'which' from 83-83
+	'feed' from 84-84
+	'on' from 85-85
+	'bacteria' from 86-86
+--
+
+Loop
+Sentence of Species: Predators may increase lower trophic levels (bacteria) by reducing density of bacteriovores, by altering behavior of bacteriovores, and by processing living bacteriovores into carcasses, feces, and dissolved nutrients that are substrates for bacteria.
+Species: 'bacteria' from 28-28
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Predators may increase lower trophic levels (bacteria) by reducing density of bacteriovores, by altering behavior of bacteriovores, and by processing living bacteriovores into carcasses, feces, and dissolved nutrients that are substrates for bacteria.
+Final Expanded Species: 'bacteria' from 28-28
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['substrates', 'reducing', 'altering', 'increase']
+Change (Causative) Verbs in L-Sentence: ['increase']
+Change (Causative) Verbs in R-Sentence: ['substrates', 'altering', 'reducing']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: We tested these pathways in laboratory experiments with mosquitoes in water‐filled containers.
+Species: 'mosquitoes' from 69-69
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We tested these pathways in laboratory experiments with mosquitoes in water‐filled containers.
+Final Expanded Species: 'mosquitoes' from 69-69
+Looking for Past References
+	Comparing 'mosquitoes' and 'bacteria'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['experiments']
+Change (Causative) Verbs in L-Sentence: ['experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'Toxorhynchites rutilus' from 75-76
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'Toxorhynchites rutilus' from 75-76
+Looking for Past References
+	Comparing 'Toxorhynchites rutilus' and 'bacteria'
+	Comparing 'Toxorhynchites rutilus' and 'mosquitoes'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'Aedes triseriatus' from 80-81
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'Aedes triseriatus' from 80-81
+Looking for Past References
+	Comparing 'Aedes triseriatus' and 'bacteria'
+	Comparing 'Aedes triseriatus' and 'mosquitoes'
+	Comparing 'Aedes triseriatus' and 'Toxorhynchites rutilus'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Controls contained no larvae, either with predation cues or without cues.
+Species: 'larvae' from 131-131
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+		'Aedes triseriatus' from 80-81 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Controls contained no larvae, either with predation cues or without cues.
+Final Expanded Species: 'larvae' from 131-131
+Looking for Past References
+	Comparing 'larvae' and 'bacteria'
+	Comparing 'larvae' and 'mosquitoes'
+	Comparing 'larvae' and 'Toxorhynchites rutilus'
+	Comparing 'larvae' and 'Aedes triseriatus'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['contained']
+Change (Causative) Verbs in L-Sentence: ['contained']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Aedes triseriatus larvae reduced bacterial abundance significantly at 14 days.
+Species: 'Aedes triseriatus larvae' from 162-164
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+		'Aedes triseriatus' from 80-81 visited 1 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Aedes triseriatus larvae reduced bacterial abundance significantly at 14 days.
+Final Expanded Species: 'Aedes triseriatus larvae' from 162-164
+Looking for Past References
+	Comparing 'Aedes triseriatus larvae' and 'bacteria'
+	Comparing 'Aedes triseriatus larvae' and 'mosquitoes'
+	Comparing 'Aedes triseriatus larvae' and 'Toxorhynchites rutilus'
+	Comparing 'Aedes triseriatus larvae' and 'Aedes triseriatus'
+	'Aedes triseriatus larvae' == 'Aedes triseriatus'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['reduced']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['reduced']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Predator cues and real predation both eliminated the negative effect of A. triseriatus on bacterial abundance.
+Species: 'A. triseriatus' from 184-185
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+		'Aedes triseriatus' from 80-81 visited 2 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Predator cues and real predation both eliminated the negative effect of A. triseriatus on bacterial abundance.
+Final Expanded Species: 'A. triseriatus' from 184-185
+Looking for Past References
+	Comparing 'A. triseriatus' and 'bacteria'
+	Comparing 'A. triseriatus' and 'mosquitoes'
+	Comparing 'A. triseriatus' and 'Toxorhynchites rutilus'
+	Comparing 'A. triseriatus' and 'Aedes triseriatus'
+	'A. triseriatus' == 'Aedes triseriatus'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['eliminated']
+Change (Causative) Verbs in L-Sentence: ['eliminated']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Predation cues reduced survivorship of A. triseriatus larvae at 14 days, however this effect was smaller than the effect of real predation.
+Species: 'A. triseriatus' from 195-196
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+		'Aedes triseriatus' from 80-81 visited 3 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Predation cues reduced survivorship of A. triseriatus larvae at 14 days, however this effect was smaller than the effect of real predation.
+Final Expanded Species: 'A. triseriatus' from 195-196
+Looking for Past References
+	Comparing 'A. triseriatus' and 'bacteria'
+	Comparing 'A. triseriatus' and 'mosquitoes'
+	Comparing 'A. triseriatus' and 'Toxorhynchites rutilus'
+	Comparing 'A. triseriatus' and 'Aedes triseriatus'
+	'A. triseriatus' == 'Aedes triseriatus'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['reduced']
+Change (Causative) Verbs in L-Sentence: ['reduced']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: We further tested effects of residues from predation as cues or as detritus in a second experiment in which A. triseriatus were killed at similar rates by: real predators ; mechanical damage without the predator and carcasses left as detritus; or mechanical damage and carcasses removed.
+Species: 'A. triseriatus' from 233-234
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+		'Aedes triseriatus' from 80-81 visited 4 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We further tested effects of residues from predation as cues or as detritus in a second experiment in which A. triseriatus were killed at similar rates by: real predators ; mechanical damage without the predator and carcasses left as detritus; or mechanical damage and carcasses removed.
+Final Expanded Species: 'A. triseriatus' from 233-234
+Looking for Past References
+	Comparing 'A. triseriatus' and 'bacteria'
+	Comparing 'A. triseriatus' and 'mosquitoes'
+	Comparing 'A. triseriatus' and 'Toxorhynchites rutilus'
+	Comparing 'A. triseriatus' and 'Aedes triseriatus'
+	'A. triseriatus' == 'Aedes triseriatus'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: ['experiment']
+Change (Causative) Verbs in L-Sentence: ['experiment']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Thus we find evidence that all three pathways contribute to the trophic cascade from T. rutilus to bacteria in tree hole systems.
+Species: 'T. rutilus' from 313-314
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 1 times.
+		'Aedes triseriatus' from 80-81 visited 5 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Thus we find evidence that all three pathways contribute to the trophic cascade from T. rutilus to bacteria in tree hole systems.
+Final Expanded Species: 'T. rutilus' from 313-314
+Looking for Past References
+	Comparing 'T. rutilus' and 'bacteria'
+	Comparing 'T. rutilus' and 'mosquitoes'
+	Comparing 'T. rutilus' and 'Toxorhynchites rutilus'
+	'T. rutilus' == 'Toxorhynchites rutilus'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['contribute']
+Change (Causative) Verbs in L-Sentence: ['contribute']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: ['bacteria']
+Added 20 Points for Species, Now 20
+
+Loop
+Sentence of Species: Thus we find evidence that all three pathways contribute to the trophic cascade from T. rutilus to bacteria in tree hole systems.
+Species: 'bacteria' from 316-316
+	Visited Species:
+		'bacteria' from 28-28 visited 1 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 5 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Thus we find evidence that all three pathways contribute to the trophic cascade from T. rutilus to bacteria in tree hole systems.
+Final Expanded Species: 'bacteria' from 316-316
+Looking for Past References
+	Comparing 'bacteria' and 'bacteria'
+	'bacteria' == 'bacteria'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['contribute']
+Change (Causative) Verbs in L-Sentence: ['contribute']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['T.', 'rutilus']
+Species in R-Sentence: []
+Added 20 Points for Species, Now 40
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'larval' from 79-79
+	Visited Species:
+		'bacteria' from 28-28 visited 2 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 5 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'larval' from 79-79
+Looking for Past References
+	Comparing 'larval' and 'bacteria'
+	Comparing 'larval' and 'mosquitoes'
+	Comparing 'larval' and 'Toxorhynchites rutilus'
+	Comparing 'larval' and 'Aedes triseriatus'
+	'larval' == 'Aedes triseriatus'
+		Number of Past Visits: 5
+Past Visits: 5
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'which' from 83-83
+	Visited Species:
+		'bacteria' from 28-28 visited 2 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 6 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'which' from 83-83
+Looking for Past References
+	Comparing 'which' and 'bacteria'
+	Comparing 'which' and 'mosquitoes'
+	Comparing 'which' and 'Toxorhynchites rutilus'
+	Comparing 'which' and 'Aedes triseriatus'
+	'which' == 'Aedes triseriatus'
+		Number of Past Visits: 6
+Past Visits: 6
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'feed' from 84-84
+	Visited Species:
+		'bacteria' from 28-28 visited 2 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 7 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'feed' from 84-84
+Looking for Past References
+	Comparing 'feed' and 'bacteria'
+	Comparing 'feed' and 'mosquitoes'
+	Comparing 'feed' and 'Toxorhynchites rutilus'
+	Comparing 'feed' and 'Aedes triseriatus'
+	'feed' == 'Aedes triseriatus'
+		Number of Past Visits: 7
+Past Visits: 7
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'on' from 85-85
+	Visited Species:
+		'bacteria' from 28-28 visited 2 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 8 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'on' from 85-85
+Looking for Past References
+	Comparing 'on' and 'bacteria'
+	Comparing 'on' and 'mosquitoes'
+	Comparing 'on' and 'Toxorhynchites rutilus'
+	Comparing 'on' and 'Aedes triseriatus'
+	'on' == 'Aedes triseriatus'
+		Number of Past Visits: 8
+Past Visits: 8
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Species: 'bacteria' from 86-86
+	Visited Species:
+		'bacteria' from 28-28 visited 2 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 9 times.
+		'larvae' from 131-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Larval Toxorhynchites rutilus prey on larval Aedes triseriatus, which feed on bacteria.
+Final Expanded Species: 'bacteria' from 86-86
+Looking for Past References
+	Comparing 'bacteria' and 'bacteria'
+	'bacteria' == 'bacteria'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+Points: 40
+Adjusted Points (14 Sentences): 2.857142857142857
+	Visited Species:
+		'bacteria' from 28-28 visited 3 times.
+		'mosquitoes' from 69-69 visited 1 times.
+		'Toxorhynchites rutilus' from 75-76 visited 2 times.
+		'Aedes triseriatus' from 80-81 visited 9 times.
+		'larvae' from 131-131 visited 1 times.
+--
+2.857142857142857 Points

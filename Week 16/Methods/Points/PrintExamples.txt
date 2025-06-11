@@ -1,0 +1,1735 @@
+Data Shape: (4, 4)
+Data Shape: (4, 4)
+Number of Texts: 4
+1/4 - Dynamic population stage structure due to juvenile–adult asymmetry stabilizes complex ecological communities
+[(203, 235), (295, 300), (330, 367)]
+
+
+
+
+Cluster Map
+{32: [more, complex, communities, their, these, complex, and, diverse, communities], 34: [larger, complex, communities, their, these, complex, and, diverse, communities], 35: [larger, more, communities, their, these, complex, and, diverse, communities], 36: [larger, more, complex, their, these, complex, and, diverse, communities], 47: [larger, more, complex, communities, these, complex, and, diverse, communities], 51: [larger, more, complex, communities, their, complex, and, diverse, communities], 52: [larger, more, complex, communities, their, these, and, diverse, communities], 53: [larger, more, complex, communities, their, these, complex, diverse, communities], 54: [larger, more, complex, communities, their, these, complex, and, communities], 55: [larger, more, complex, communities, their, these, complex, and, diverse]}
+Species Spans:
+	'species' from 12-12
+	'species' from 68-68
+--
+
+Loop
+Sentence of Species: Using food web models that account for juvenile and adult individuals of species, I show that commonly observed differences between juveniles and adults in foraging capacity and predation risk result in larger, more complex communities than predicted by models without stage structure.
+Species: 'species' from 12-12
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Using food web models that account for juvenile and adult individuals of species, I show that commonly observed differences between juveniles and adults in foraging capacity and predation risk result in larger, more complex communities than predicted by models without stage structure.
+Final Expanded Species: 'species' from 12-12
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['differences', 'result']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['differences', 'result']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Based on their species interaction networks these complex and diverse communities would be expected to be unstable, but these destabilizing effects of species interactions are overruled by stabilizing changes in juvenile–adult stage structure.
+Species: 'species' from 68-68
+	Visited Species:
+		'species' from 12-12 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Based on their species interaction networks these complex and diverse communities would be expected to be unstable, but these destabilizing effects of species interactions are overruled by stabilizing changes in juvenile–adult stage structure.
+Final Expanded Species: 'species' from 68-68
+Looking for Past References
+	Comparing 'species' and 'species'
+	'species' == 'species'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['stabilizing', 'changes']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['stabilizing', 'changes']
+Species in L-Sentence: []
+Species in R-Sentence: []
+Points: 0
+Adjusted Points (3 Sentences): 0.0
+	Visited Species:
+		'species' from 12-12 visited 2 times.
+--
+Less Than 3 Species Visited, 0 Points
+2/4 - EFFECTS OF TOP PREDATOR SPECIES ON DIRECT AND INDIRECT INTERACTIONS IN A FOOD WEB
+[(0, 51), (183, 194)]
+[(124, 181), (227, 236)]
+[(195, 202), (323, 338)]
+[(1030, 1049), (1195, 1197)]
+[(1308, 1328), (1340, 1350)]
+
+
+
+
+Cluster Map
+{0: [theory, on, trophic, interactions, in, food, webs, This, theory], 1: [Current, on, trophic, interactions, in, food, webs, This, theory], 2: [Current, theory, trophic, interactions, in, food, webs, This, theory], 3: [Current, theory, on, interactions, in, food, webs, This, theory], 4: [Current, theory, on, trophic, in, food, webs, This, theory], 5: [Current, theory, on, trophic, interactions, food, webs, This, theory], 6: [Current, theory, on, trophic, interactions, in, webs, This, theory], 7: [Current, theory, on, trophic, interactions, in, food, This, theory], 29: [Current, theory, on, trophic, interactions, in, food, webs, theory], 30: [Current, theory, on, trophic, interactions, in, food, webs, This], 17: [single, functional, unit, such, as, a, guild, or, trophic, level, that, unit], 18: [a, functional, unit, such, as, a, guild, or, trophic, level, that, unit], 19: [a, single, unit, such, as, a, guild, or, trophic, level, that, unit], 20: [a, single, functional, such, as, a, guild, or, trophic, level, that, unit], 21: [a, single, functional, unit, as, a, guild, or, trophic, level, that, unit], 22: [a, single, functional, unit, such, a, guild, or, trophic, level, that, unit], 23: [a, single, functional, unit, such, as, guild, or, trophic, level, that, unit], 24: [a, single, functional, unit, such, as, a, or, trophic, level, that, unit], 25: [a, single, functional, unit, such, as, a, guild, trophic, level, that, unit], 26: [a, single, functional, unit, such, as, a, guild, or, level, that, unit], 27: [a, single, functional, unit, such, as, a, guild, or, trophic, that, unit], 36: [a, single, functional, unit, such, as, a, guild, or, trophic, level, unit], 37: [a, single, functional, unit, such, as, a, guild, or, trophic, level, that], 31: [this, assumption], 50: [implies, assumption], 51: [implies, this], 159: [density, it], 160: [Grasshopper, it], 183: [Grasshopper, density], 202: [direct, effects, themselves], 203: [These, effects, themselves], 204: [These, direct, themselves], 206: [These, direct, effects]}
+Species Spans:
+	'species' from 11-11
+	'species' from 34-34
+	'-' from 65-65
+	'same' from 73-73
+	'species' from 81-81
+	'grasses' from 88-88
+	'that' from 97-97
+	'canopy.' from 130-131
+	'differences' from 133-133
+	'diet' from 149-149
+	'-' from 157-157
+	'was' from 179-179
+	'canopy' from 191-191
+	'spider' from 217-217
+	'upper' from 222-222
+	'the' from 236-236
+	'by' from 276-276
+	'had strictly' from 308-309
+--
+
+Loop
+Sentence of Species: Current theory on trophic interactions in food webs assumes thatecologically similar species can be treated collectively as a single functional unit such as a guild or trophic level.
+Species: 'species' from 11-11
+	Visited Species:
+		
+--
+Expanding Species
+\Expanding Species - Now: similar species
+Sentence of (Final) Expanded Species: Current theory on trophic interactions in food webs assumes thatecologically similar species can be treated collectively as a single functional unit such as a guild or trophic level.
+Final Expanded Species: 'similar species' from 10-11
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: This theory implies that all species within that unit transmit identical direct and indirect effects throughout the community.
+Species: 'species' from 34-34
+	Visited Species:
+		'similar species' from 10-11 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: This theory implies that all species within that unit transmit identical direct and indirect effects throughout the community.
+Final Expanded Species: 'species' from 34-34
+Looking for Past References
+	Comparing 'species' and 'similar species'
+	'species' == 'similar species'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Species: '-' from 65-65
+	Visited Species:
+		'similar species' from 10-11 visited 2 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Final Expanded Species: '-' from 65-65
+Looking for Past References
+	Comparing '-' and 'similar species'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: ['species', 'same', 'grasses']
+Added 10 Points for Species, Now 10
+
+Loop
+Sentence of Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Species: 'same' from 73-73
+	Visited Species:
+		'similar species' from 10-11 visited 2 times.
+		'-' from 65-65 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Final Expanded Species: 'same' from 73-73
+Looking for Past References
+	Comparing 'same' and 'similar species'
+	Comparing 'same' and '-'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['-']
+Species in R-Sentence: ['grasses', 'species']
+Added 10 Points for Species, Now 20
+
+Loop
+Sentence of Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Species: 'species' from 81-81
+	Visited Species:
+		'similar species' from 10-11 visited 2 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+--
+Expanding Species
+\Expanding Species - Now: same species
+Sentence of (Final) Expanded Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Final Expanded Species: 'same species' from 80-81
+Looking for Past References
+	Comparing 'same species' and 'similar species'
+	'same species' == 'similar species'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['same', '-']
+Species in R-Sentence: ['grasses']
+Added 30 Points for Species, Now 50
+
+Loop
+Sentence of Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Species: 'grasses' from 88-88
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
+Final Expanded Species: 'grasses' from 88-88
+Looking for Past References
+	Comparing 'grasses' and 'similar species'
+	Comparing 'grasses' and '-'
+	Comparing 'grasses' and 'same'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['compare', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['same', '-', 'species']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 60
+
+Loop
+Sentence of Species: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy.
+Species: 'that' from 97-97
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy.
+Final Expanded Species: 'that' from 97-97
+Looking for Past References
+	Comparing 'that' and 'similar species'
+	Comparing 'that' and '-'
+	Comparing 'that' and 'same'
+	Comparing 'that' and 'grasses'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy.
+Species: 'canopy.' from 130-131
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy.
+Final Expanded Species: 'canopy.' from 130-131
+Looking for Past References
+	Comparing 'canopy.' and 'similar species'
+	Comparing 'canopy.' and '-'
+	Comparing 'canopy.' and 'same'
+	Comparing 'canopy.' and 'grasses'
+	Comparing 'canopy.' and 'that'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: These differences resulted in different direct effects on grasshopper prey.
+Species: 'differences' from 133-133
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These differences resulted in different direct effects on grasshopper prey.
+Final Expanded Species: 'differences' from 133-133
+Looking for Past References
+	Comparing 'differences' and 'similar species'
+	Comparing 'differences' and '-'
+	Comparing 'differences' and 'same'
+	Comparing 'differences' and 'grasses'
+	Comparing 'differences' and 'that'
+	Comparing 'differences' and 'canopy.'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['differences', 'resulted']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['resulted']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species.
+Species: 'diet' from 149-149
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 1 times.
+		'differences' from 133-133 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species.
+Final Expanded Species: 'diet' from 149-149
+Looking for Past References
+	Comparing 'diet' and 'similar species'
+	Comparing 'diet' and '-'
+	Comparing 'diet' and 'same'
+	Comparing 'diet' and 'grasses'
+	Comparing 'diet' and 'that'
+	Comparing 'diet' and 'canopy.'
+	Comparing 'diet' and 'differences'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['demonstrated', 'shifts']
+Change (Causative) Verbs in L-Sentence: ['demonstrated']
+Change (Causative) Verbs in R-Sentence: ['shifts']
+Species in L-Sentence: []
+Species in R-Sentence: ['-']
+Added 10 Points for Species, Now 70
+
+Loop
+Sentence of Species: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species.
+Species: '-' from 157-157
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 1 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 1 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species.
+Final Expanded Species: '-' from 157-157
+Looking for Past References
+	Comparing '-' and 'similar species'
+	Comparing '-' and '-'
+	'-' == '-'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['demonstrated', 'shifts']
+Change (Causative) Verbs in L-Sentence: ['demonstrated', 'shifts']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['diet']
+Species in R-Sentence: []
+Added 20 Points for Species, Now 90
+
+Loop
+Sentence of Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Species: 'was' from 179-179
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 1 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Final Expanded Species: 'was' from 179-179
+Looking for Past References
+	Comparing 'was' and 'similar species'
+	Comparing 'was' and '-'
+	Comparing 'was' and 'same'
+	Comparing 'was' and 'grasses'
+	Comparing 'was' and 'that'
+	Comparing 'was' and 'canopy.'
+	Comparing 'was' and 'differences'
+	Comparing 'was' and 'diet'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['reduced', 'reduced']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['reduced', 'reduced']
+Species in L-Sentence: []
+Species in R-Sentence: ['spider', 'upper', 'canopy']
+Added 10 Points for Species, Now 100
+
+Loop
+Sentence of Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Species: 'canopy' from 191-191
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 1 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Final Expanded Species: 'canopy' from 191-191
+Looking for Past References
+	Comparing 'canopy' and 'similar species'
+	Comparing 'canopy' and '-'
+	Comparing 'canopy' and 'same'
+	Comparing 'canopy' and 'grasses'
+	Comparing 'canopy' and 'that'
+	Comparing 'canopy' and 'canopy.'
+	'canopy' == 'canopy.'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['reduced', 'reduced']
+Change (Causative) Verbs in L-Sentence: ['reduced']
+Change (Causative) Verbs in R-Sentence: ['reduced']
+Species in L-Sentence: ['was']
+Species in R-Sentence: ['spider', 'upper']
+Added 20 Points for Species, Now 120
+
+Loop
+Sentence of Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Species: 'spider' from 217-217
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 2 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Final Expanded Species: 'spider' from 217-217
+Looking for Past References
+	Comparing 'spider' and 'similar species'
+	Comparing 'spider' and '-'
+	Comparing 'spider' and 'same'
+	Comparing 'spider' and 'grasses'
+	Comparing 'spider' and 'that'
+	Comparing 'spider' and 'canopy.'
+	Comparing 'spider' and 'differences'
+	Comparing 'spider' and 'diet'
+	Comparing 'spider' and 'was'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['reduced', 'reduced']
+Change (Causative) Verbs in L-Sentence: ['reduced', 'reduced']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['was', 'canopy']
+Species in R-Sentence: ['upper']
+Added 10 Points for Species, Now 130
+
+Loop
+Sentence of Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Species: 'upper' from 222-222
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 2 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+		'spider' from 217-217 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
+Final Expanded Species: 'upper' from 222-222
+Looking for Past References
+	Comparing 'upper' and 'similar species'
+	Comparing 'upper' and '-'
+	Comparing 'upper' and 'same'
+	Comparing 'upper' and 'grasses'
+	Comparing 'upper' and 'that'
+	Comparing 'upper' and 'canopy.'
+	Comparing 'upper' and 'differences'
+	Comparing 'upper' and 'diet'
+	Comparing 'upper' and 'was'
+	Comparing 'upper' and 'spider'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['reduced', 'reduced']
+Change (Causative) Verbs in L-Sentence: ['reduced', 'reduced']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['spider', 'was', 'canopy']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 140
+
+Loop
+Sentence of Species: These direct effects manifested themselves differ ently in the plant trophic level.
+Species: 'the' from 236-236
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 2 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+		'spider' from 217-217 visited 1 times.
+		'upper' from 222-222 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These direct effects manifested themselves differ ently in the plant trophic level.
+Final Expanded Species: 'the' from 236-236
+Looking for Past References
+	Comparing 'the' and 'similar species'
+	Comparing 'the' and '-'
+	Comparing 'the' and 'same'
+	Comparing 'the' and 'grasses'
+	Comparing 'the' and 'that'
+	Comparing 'the' and 'canopy.'
+	Comparing 'the' and 'differences'
+	Comparing 'the' and 'diet'
+	Comparing 'the' and 'was'
+	Comparing 'the' and 'spider'
+	Comparing 'the' and 'upper'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: ['differ']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: The sit-and-pursue spider caused indirect effects by reducing grasshopper density (density-mediated effects); the effects of changes in grasshopper behavior were thus not reflected in the plant trophic level.
+Species: 'by' from 276-276
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 2 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+		'spider' from 217-217 visited 1 times.
+		'upper' from 222-222 visited 1 times.
+		'the' from 236-236 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The sit-and-pursue spider caused indirect effects by reducing grasshopper density (density-mediated effects); the effects of changes in grasshopper behavior were thus not reflected in the plant trophic level.
+Final Expanded Species: 'by' from 276-276
+Looking for Past References
+	Comparing 'by' and 'similar species'
+	Comparing 'by' and '-'
+	Comparing 'by' and 'same'
+	Comparing 'by' and 'grasses'
+	Comparing 'by' and 'that'
+	Comparing 'by' and 'canopy.'
+	Comparing 'by' and 'differences'
+	Comparing 'by' and 'diet'
+	Comparing 'by' and 'was'
+	Comparing 'by' and 'spider'
+	Comparing 'by' and 'upper'
+	Comparing 'by' and 'the'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['caused', 'changes', 'reducing']
+Change (Causative) Verbs in L-Sentence: ['caused']
+Change (Causative) Verbs in R-Sentence: ['changes', 'reducing']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: The actively hunting spiders had strictly density-mediated indirect effects on plants.
+Species: 'had strictly' from 308-309
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 2 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+		'spider' from 217-217 visited 1 times.
+		'upper' from 222-222 visited 1 times.
+		'the' from 236-236 visited 1 times.
+		'by' from 276-276 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The actively hunting spiders had strictly density-mediated indirect effects on plants.
+Final Expanded Species: 'had strictly' from 308-309
+Looking for Past References
+	Comparing 'had strictly' and 'similar species'
+	Comparing 'had strictly' and '-'
+	Comparing 'had strictly' and 'same'
+	Comparing 'had strictly' and 'grasses'
+	Comparing 'had strictly' and 'that'
+	Comparing 'had strictly' and 'canopy.'
+	Comparing 'had strictly' and 'differences'
+	Comparing 'had strictly' and 'diet'
+	Comparing 'had strictly' and 'was'
+	Comparing 'had strictly' and 'spider'
+	Comparing 'had strictly' and 'upper'
+	Comparing 'had strictly' and 'the'
+	Comparing 'had strictly' and 'by'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+Points: 140
+Adjusted Points (13 Sentences): 10.76923076923077
+	Visited Species:
+		'similar species' from 10-11 visited 3 times.
+		'-' from 65-65 visited 2 times.
+		'same' from 73-73 visited 1 times.
+		'grasses' from 88-88 visited 1 times.
+		'that' from 97-97 visited 1 times.
+		'canopy.' from 130-131 visited 2 times.
+		'differences' from 133-133 visited 1 times.
+		'diet' from 149-149 visited 1 times.
+		'was' from 179-179 visited 1 times.
+		'spider' from 217-217 visited 1 times.
+		'upper' from 222-222 visited 1 times.
+		'the' from 236-236 visited 1 times.
+		'by' from 276-276 visited 1 times.
+		'had strictly' from 308-309 visited 1 times.
+--
+10.76923076923077 Points
+3/4 - Higher-Order Interaction between Species Inhibits Bacterial Invasion of a Phototroph-Predator Microbial Community
+[(19, 31), (75, 78)]
+[(370, 372), (768, 770)]
+[(655, 766), (793, 809)]
+[(781, 809), (907, 916)]
+[(487, 533), (945, 956)]
+
+
+
+
+Cluster Map
+{3: [ecosystem, its], 4: [an, its], 12: [an, ecosystem], 60: [We], 121: [We], 105: [higher-order, interaction, between, species, (, modification, that, is, unrelated, to, resource, consumption, this, interaction], 106: [a, interaction, between, species, (, modification, that, is, unrelated, to, resource, consumption, this, interaction], 107: [a, higher-order, between, species, (, modification, that, is, unrelated, to, resource, consumption, this, interaction], 108: [a, higher-order, interaction, species, (, modification, that, is, unrelated, to, resource, consumption, this, interaction], 109: [a, higher-order, interaction, between, (, modification, that, is, unrelated, to, resource, consumption, this, interaction], 110: [a, higher-order, interaction, between, species, modification, that, is, unrelated, to, resource, consumption, this, interaction], 112: [a, higher-order, interaction, between, species, (, that, is, unrelated, to, resource, consumption, this, interaction], 114: [a, higher-order, interaction, between, species, (, modification, is, unrelated, to, resource, consumption, this, interaction], 115: [a, higher-order, interaction, between, species, (, modification, that, unrelated, to, resource, consumption, this, interaction], 116: [a, higher-order, interaction, between, species, (, modification, that, is, to, resource, consumption, this, interaction], 117: [a, higher-order, interaction, between, species, (, modification, that, is, unrelated, resource, consumption, this, interaction], 118: [a, higher-order, interaction, between, species, (, modification, that, is, unrelated, to, consumption, this, interaction], 119: [a, higher-order, interaction, between, species, (, modification, that, is, unrelated, to, resource, this, interaction], 127: [the, mode, of, interaction, This, mode], 128: [the, mode, of, this, This, mode], 124: [mode, of, this, interaction, This, mode], 125: [the, of, this, interaction, This, mode], 126: [the, mode, this, interaction, This, mode], 144: [the, mode, of, this, interaction, mode], 145: [the, mode, of, this, interaction, This], 78: [ciliate, Tetrahymena, thermophila, (, the, ciliate], 79: [the, Tetrahymena, thermophila, (, the, ciliate], 80: [the, ciliate, thermophila, (, the, ciliate], 81: [the, ciliate, Tetrahymena, (, the, ciliate], 82: [the, ciliate, Tetrahymena, thermophila, the, ciliate], 151: [the, ciliate, Tetrahymena, thermophila, (, ciliate], 152: [the, ciliate, Tetrahymena, thermophila, (, the]}
+Species Spans:
+	'plant' from 23-23
+	'Escherichia coli' from 63-64
+	'alga' from 71-71
+	'Chlamydomonas reinhardtii' from 72-73
+	'Tetrahymena thermophila' from 80-81
+	'-' from 109-109
+	'mode' from 149-149
+	'a' from 105-105
+	'higher-order' from 106-106
+	'interaction' from 107-107
+	'between' from 108-108
+	'(' from 110-110
+	'modification' from 112-112
+	'that' from 114-114
+	'is' from 115-115
+	'unrelated' from 116-116
+	'to' from 117-117
+	'resource' from 118-118
+	'consumption' from 119-119
+	'this' from 127-127
+	'interaction' from 128-128
+	'the' from 78-78
+	'ciliate' from 79-79
+	'(' from 82-82
+	'the' from 151-151
+	'ciliate' from 152-152
+--
+
+Loop
+Sentence of Species: Studies of natural ecosystems, from plant to microbial communities, have found that more diverse communities are more resistant to invasion.
+Species: 'plant' from 23-23
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Studies of natural ecosystems, from plant to microbial communities, have found that more diverse communities are more resistant to invasion.
+Final Expanded Species: 'plant' from 23-23
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: 'Escherichia coli' from 63-64
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: 'Escherichia coli' from 63-64
+Looking for Past References
+	Comparing 'Escherichia coli' and 'plant'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: 'alga' from 71-71
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: 'alga' from 71-71
+Looking for Past References
+	Comparing 'alga' and 'plant'
+	Comparing 'alga' and 'Escherichia coli'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: 'Chlamydomonas reinhardtii' from 72-73
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: 'Chlamydomonas reinhardtii' from 72-73
+Looking for Past References
+	Comparing 'Chlamydomonas reinhardtii' and 'plant'
+	Comparing 'Chlamydomonas reinhardtii' and 'Escherichia coli'
+	Comparing 'Chlamydomonas reinhardtii' and 'alga'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: 'Tetrahymena thermophila' from 80-81
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: 'Tetrahymena thermophila' from 80-81
+Looking for Past References
+	Comparing 'Tetrahymena thermophila' and 'plant'
+	Comparing 'Tetrahymena thermophila' and 'Escherichia coli'
+	Comparing 'Tetrahymena thermophila' and 'alga'
+	Comparing 'Tetrahymena thermophila' and 'Chlamydomonas reinhardtii'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: '-' from 109-109
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: '-' from 109-109
+Looking for Past References
+	Comparing '-' and 'plant'
+	Comparing '-' and 'Escherichia coli'
+	Comparing '-' and 'alga'
+	Comparing '-' and 'Chlamydomonas reinhardtii'
+	Comparing '-' and 'Tetrahymena thermophila'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consumption']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['consumption']
+Species in L-Sentence: ['arises', 'from', 'a', 'higher']
+Species in R-Sentence: ['order', 'between', '(', 'interaction', 'modification', ')', 'that', 'is']
+Added 10 Points for Species, Now 10
+
+Loop
+Sentence of Species: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Species: 'mode' from 149-149
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Final Expanded Species: 'mode' from 149-149
+Looking for Past References
+	Comparing 'mode' and 'plant'
+	Comparing 'mode' and 'Escherichia coli'
+	Comparing 'mode' and 'alga'
+	Comparing 'mode' and 'Chlamydomonas reinhardtii'
+	Comparing 'mode' and 'Tetrahymena thermophila'
+	Comparing 'mode' and '-'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['provides']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['provides']
+Species in L-Sentence: []
+Species in R-Sentence: ['the', 'both']
+Added 10 Points for Species, Now 20
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'a' from 105-105
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 1 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'a' from 105-105
+Looking for Past References
+	Comparing 'a' and 'plant'
+	Comparing 'a' and 'Escherichia coli'
+	Comparing 'a' and 'alga'
+	Comparing 'a' and 'Chlamydomonas reinhardtii'
+	Comparing 'a' and 'Tetrahymena thermophila'
+	Comparing 'a' and '-'
+	'a' == '-'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'higher-order' from 106-106
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 2 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'higher-order' from 106-106
+Looking for Past References
+	Comparing 'higher-order' and 'plant'
+	Comparing 'higher-order' and 'Escherichia coli'
+	Comparing 'higher-order' and 'alga'
+	Comparing 'higher-order' and 'Chlamydomonas reinhardtii'
+	Comparing 'higher-order' and 'Tetrahymena thermophila'
+	Comparing 'higher-order' and '-'
+	'higher-order' == '-'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'interaction' from 107-107
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 3 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'interaction' from 107-107
+Looking for Past References
+	Comparing 'interaction' and 'plant'
+	Comparing 'interaction' and 'Escherichia coli'
+	Comparing 'interaction' and 'alga'
+	Comparing 'interaction' and 'Chlamydomonas reinhardtii'
+	Comparing 'interaction' and 'Tetrahymena thermophila'
+	Comparing 'interaction' and '-'
+	'interaction' == '-'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'between' from 108-108
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 4 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'between' from 108-108
+Looking for Past References
+	Comparing 'between' and 'plant'
+	Comparing 'between' and 'Escherichia coli'
+	Comparing 'between' and 'alga'
+	Comparing 'between' and 'Chlamydomonas reinhardtii'
+	Comparing 'between' and 'Tetrahymena thermophila'
+	Comparing 'between' and '-'
+	'between' == '-'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: '(' from 110-110
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 5 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: '(' from 110-110
+Looking for Past References
+	Comparing '(' and 'plant'
+	Comparing '(' and 'Escherichia coli'
+	Comparing '(' and 'alga'
+	Comparing '(' and 'Chlamydomonas reinhardtii'
+	Comparing '(' and 'Tetrahymena thermophila'
+	Comparing '(' and '-'
+	'(' == '-'
+		Number of Past Visits: 5
+Past Visits: 5
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'modification' from 112-112
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 6 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'modification' from 112-112
+Looking for Past References
+	Comparing 'modification' and 'plant'
+	Comparing 'modification' and 'Escherichia coli'
+	Comparing 'modification' and 'alga'
+	Comparing 'modification' and 'Chlamydomonas reinhardtii'
+	Comparing 'modification' and 'Tetrahymena thermophila'
+	Comparing 'modification' and '-'
+	'modification' == '-'
+		Number of Past Visits: 6
+Past Visits: 6
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'that' from 114-114
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 7 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'that' from 114-114
+Looking for Past References
+	Comparing 'that' and 'plant'
+	Comparing 'that' and 'Escherichia coli'
+	Comparing 'that' and 'alga'
+	Comparing 'that' and 'Chlamydomonas reinhardtii'
+	Comparing 'that' and 'Tetrahymena thermophila'
+	Comparing 'that' and '-'
+	'that' == '-'
+		Number of Past Visits: 7
+Past Visits: 7
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'is' from 115-115
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 8 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'is' from 115-115
+Looking for Past References
+	Comparing 'is' and 'plant'
+	Comparing 'is' and 'Escherichia coli'
+	Comparing 'is' and 'alga'
+	Comparing 'is' and 'Chlamydomonas reinhardtii'
+	Comparing 'is' and 'Tetrahymena thermophila'
+	Comparing 'is' and '-'
+	'is' == '-'
+		Number of Past Visits: 8
+Past Visits: 8
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'unrelated' from 116-116
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 9 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'unrelated' from 116-116
+Looking for Past References
+	Comparing 'unrelated' and 'plant'
+	Comparing 'unrelated' and 'Escherichia coli'
+	Comparing 'unrelated' and 'alga'
+	Comparing 'unrelated' and 'Chlamydomonas reinhardtii'
+	Comparing 'unrelated' and 'Tetrahymena thermophila'
+	Comparing 'unrelated' and '-'
+	'unrelated' == '-'
+		Number of Past Visits: 9
+Past Visits: 9
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'to' from 117-117
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 10 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'to' from 117-117
+Looking for Past References
+	Comparing 'to' and 'plant'
+	Comparing 'to' and 'Escherichia coli'
+	Comparing 'to' and 'alga'
+	Comparing 'to' and 'Chlamydomonas reinhardtii'
+	Comparing 'to' and 'Tetrahymena thermophila'
+	Comparing 'to' and '-'
+	'to' == '-'
+		Number of Past Visits: 10
+Past Visits: 10
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'resource' from 118-118
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 11 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'resource' from 118-118
+Looking for Past References
+	Comparing 'resource' and 'plant'
+	Comparing 'resource' and 'Escherichia coli'
+	Comparing 'resource' and 'alga'
+	Comparing 'resource' and 'Chlamydomonas reinhardtii'
+	Comparing 'resource' and 'Tetrahymena thermophila'
+	Comparing 'resource' and '-'
+	'resource' == '-'
+		Number of Past Visits: 11
+Past Visits: 11
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Species: 'consumption' from 119-119
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 12 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
+Final Expanded Species: 'consumption' from 119-119
+Looking for Past References
+	Comparing 'consumption' and 'plant'
+	Comparing 'consumption' and 'Escherichia coli'
+	Comparing 'consumption' and 'alga'
+	Comparing 'consumption' and 'Chlamydomonas reinhardtii'
+	Comparing 'consumption' and 'Tetrahymena thermophila'
+	Comparing 'consumption' and '-'
+	'consumption' == '-'
+		Number of Past Visits: 12
+Past Visits: 12
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation.
+Species: 'this' from 127-127
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 13 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation.
+Final Expanded Species: 'this' from 127-127
+Looking for Past References
+	Comparing 'this' and 'plant'
+	Comparing 'this' and 'Escherichia coli'
+	Comparing 'this' and 'alga'
+	Comparing 'this' and 'Chlamydomonas reinhardtii'
+	Comparing 'this' and 'Tetrahymena thermophila'
+	Comparing 'this' and '-'
+	'this' == '-'
+		Number of Past Visits: 13
+Past Visits: 13
+Change (Causative) Verbs in Sentence: ['consumption']
+Change (Causative) Verbs in L-Sentence: ['consumption']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: ['the']
+Added 140 Points for Species, Now 160
+
+Loop
+Sentence of Species: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation.
+Species: 'interaction' from 128-128
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 14 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation.
+Final Expanded Species: 'interaction' from 128-128
+Looking for Past References
+	Comparing 'interaction' and 'plant'
+	Comparing 'interaction' and 'Escherichia coli'
+	Comparing 'interaction' and 'alga'
+	Comparing 'interaction' and 'Chlamydomonas reinhardtii'
+	Comparing 'interaction' and 'Tetrahymena thermophila'
+	Comparing 'interaction' and '-'
+	'interaction' == '-'
+		Number of Past Visits: 14
+Past Visits: 14
+Change (Causative) Verbs in Sentence: ['consumption']
+Change (Causative) Verbs in L-Sentence: ['consumption']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['that']
+Species in R-Sentence: []
+Added 150 Points for Species, Now 310
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: 'the' from 78-78
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 1 times.
+		'-' from 109-109 visited 15 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: 'the' from 78-78
+Looking for Past References
+	Comparing 'the' and 'plant'
+	Comparing 'the' and 'Escherichia coli'
+	Comparing 'the' and 'alga'
+	Comparing 'the' and 'Chlamydomonas reinhardtii'
+	Comparing 'the' and 'Tetrahymena thermophila'
+	'the' == 'Tetrahymena thermophila'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: 'ciliate' from 79-79
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 2 times.
+		'-' from 109-109 visited 15 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: 'ciliate' from 79-79
+Looking for Past References
+	Comparing 'ciliate' and 'plant'
+	Comparing 'ciliate' and 'Escherichia coli'
+	Comparing 'ciliate' and 'alga'
+	Comparing 'ciliate' and 'Chlamydomonas reinhardtii'
+	Comparing 'ciliate' and 'Tetrahymena thermophila'
+	'ciliate' == 'Tetrahymena thermophila'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Species: '(' from 82-82
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 3 times.
+		'-' from 109-109 visited 15 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
+Final Expanded Species: '(' from 82-82
+Looking for Past References
+	Comparing '(' and 'plant'
+	Comparing '(' and 'Escherichia coli'
+	Comparing '(' and 'alga'
+	Comparing '(' and 'Chlamydomonas reinhardtii'
+	Comparing '(' and 'Tetrahymena thermophila'
+	'(' == 'Tetrahymena thermophila'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Species: 'the' from 151-151
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 4 times.
+		'-' from 109-109 visited 15 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Final Expanded Species: 'the' from 151-151
+Looking for Past References
+	Comparing 'the' and 'plant'
+	Comparing 'the' and 'Escherichia coli'
+	Comparing 'the' and 'alga'
+	Comparing 'the' and 'Chlamydomonas reinhardtii'
+	Comparing 'the' and 'Tetrahymena thermophila'
+	'the' == 'Tetrahymena thermophila'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: ['provides']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['provides']
+Species in L-Sentence: ['mode']
+Species in R-Sentence: ['the']
+Added 50 Points for Species, Now 360
+
+Loop
+Sentence of Species: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Species: 'ciliate' from 152-152
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 5 times.
+		'-' from 109-109 visited 15 times.
+		'mode' from 149-149 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
+Final Expanded Species: 'ciliate' from 152-152
+Looking for Past References
+	Comparing 'ciliate' and 'plant'
+	Comparing 'ciliate' and 'Escherichia coli'
+	Comparing 'ciliate' and 'alga'
+	Comparing 'ciliate' and 'Chlamydomonas reinhardtii'
+	Comparing 'ciliate' and 'Tetrahymena thermophila'
+	'ciliate' == 'Tetrahymena thermophila'
+		Number of Past Visits: 5
+Past Visits: 5
+Change (Causative) Verbs in Sentence: ['provides']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['provides']
+Species in L-Sentence: ['mode', 'both']
+Species in R-Sentence: []
+Added 60 Points for Species, Now 420
+Points: 420
+Adjusted Points (7 Sentences): 60.0
+	Visited Species:
+		'plant' from 23-23 visited 1 times.
+		'Escherichia coli' from 63-64 visited 1 times.
+		'alga' from 71-71 visited 1 times.
+		'Chlamydomonas reinhardtii' from 72-73 visited 1 times.
+		'Tetrahymena thermophila' from 80-81 visited 6 times.
+		'-' from 109-109 visited 15 times.
+		'mode' from 149-149 visited 1 times.
+--
+60.0 Points
+4/4 - Multiple predator effects result in risk reduction for prey across multiple prey densities
+[(192, 194), (378, 380), (457, 460)]
+[(403, 414), (572, 580), (729, 737)]
+[(588, 623), (874, 912)]
+[(457, 467), (1070, 1081)]
+
+
+
+
+Cluster Map
+{27: [we, our], 60: [We, our], 75: [system, this, system], 65: [prey, the, prey, the, prey], 66: [mayfly, the, prey, the, prey], 94: [mayfly, prey, prey, the, prey], 95: [mayfly, prey, the, the, prey], 118: [mayfly, prey, the, prey, prey], 119: [mayfly, prey, the, prey, the], 97: [multiple, predator, combinations, the, two, multiple, predator, combinations], 98: [both, predator, combinations, the, two, multiple, predator, combinations], 99: [both, multiple, combinations, the, two, multiple, predator, combinations], 100: [both, multiple, predator, the, two, multiple, predator, combinations], 144: [both, multiple, predator, combinations, two, multiple, predator, combinations], 145: [both, multiple, predator, combinations, the, multiple, predator, combinations], 146: [both, multiple, predator, combinations, the, two, predator, combinations], 147: [both, multiple, predator, combinations, the, two, multiple, combinations], 148: [both, multiple, predator, combinations, the, two, multiple, predator], 76: [our, this, system], 176: [our, system, system], 177: [our, system, this]}
+Species Spans:
+	'species' from 14-14
+	'species' from 43-43
+	'hellgrammites' from 45-45
+	'greenside darters' from 47-48
+	'creek chubs' from 51-52
+	'mayfly prey' from 65-66
+	'species' from 88-88
+	'multiple' from 137-137
+	'multiple' from 174-174
+	'the' from 94-94
+	'prey' from 95-95
+	'the' from 118-118
+	'prey' from 119-119
+--
+
+Loop
+Sentence of Species: Investigating how prey density influences a prey’s combined predation risk from multiple predator species is critical for understanding the widespread importance of multiple predator effects.
+Species: 'species' from 14-14
+	Visited Species:
+		
+--
+Expanding Species
+\Expanding Species - Now: predator species
+\Expanding Species - Now: multiple predator species
+Sentence of (Final) Expanded Species: Investigating how prey density influences a prey’s combined predation risk from multiple predator species is critical for understanding the widespread importance of multiple predator effects.
+Final Expanded Species: 'multiple predator species' from 12-14
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['combined', 'understanding']
+Change (Causative) Verbs in L-Sentence: ['combined']
+Change (Causative) Verbs in R-Sentence: ['understanding']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Species: 'species' from 43-43
+	Visited Species:
+		'multiple predator species' from 12-14 visited 1 times.
+--
+Expanding Species
+\Expanding Species - Now: predator species
+Sentence of (Final) Expanded Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Final Expanded Species: 'predator species' from 42-43
+Looking for Past References
+	Comparing 'predator species' and 'multiple predator species'
+	'predator species' == 'multiple predator species'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: ['mayfly', 'prey', 'hellgrammites', 'greenside', 'darters', 'creek', 'chubs']
+Added 20 Points for Species, Now 20
+
+Loop
+Sentence of Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Species: 'hellgrammites' from 45-45
+	Visited Species:
+		'multiple predator species' from 12-14 visited 2 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Final Expanded Species: 'hellgrammites' from 45-45
+Looking for Past References
+	Comparing 'hellgrammites' and 'multiple predator species'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['species']
+Species in R-Sentence: ['mayfly', 'prey', 'greenside', 'darters', 'creek', 'chubs']
+Added 10 Points for Species, Now 30
+
+Loop
+Sentence of Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Species: 'greenside darters' from 47-48
+	Visited Species:
+		'multiple predator species' from 12-14 visited 2 times.
+		'hellgrammites' from 45-45 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Final Expanded Species: 'greenside darters' from 47-48
+Looking for Past References
+	Comparing 'greenside darters' and 'multiple predator species'
+	Comparing 'greenside darters' and 'hellgrammites'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['species', 'hellgrammites']
+Species in R-Sentence: ['mayfly', 'prey', 'creek', 'chubs']
+Added 10 Points for Species, Now 40
+
+Loop
+Sentence of Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Species: 'creek chubs' from 51-52
+	Visited Species:
+		'multiple predator species' from 12-14 visited 2 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Final Expanded Species: 'creek chubs' from 51-52
+Looking for Past References
+	Comparing 'creek chubs' and 'multiple predator species'
+	Comparing 'creek chubs' and 'hellgrammites'
+	Comparing 'creek chubs' and 'greenside darters'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['darters', 'species', 'hellgrammites', 'greenside']
+Species in R-Sentence: ['mayfly', 'prey']
+Added 10 Points for Species, Now 50
+
+Loop
+Sentence of Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Species: 'mayfly prey' from 65-66
+	Visited Species:
+		'multiple predator species' from 12-14 visited 2 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
+Final Expanded Species: 'mayfly prey' from 65-66
+Looking for Past References
+	Comparing 'mayfly prey' and 'multiple predator species'
+	Comparing 'mayfly prey' and 'hellgrammites'
+	Comparing 'mayfly prey' and 'greenside darters'
+	Comparing 'mayfly prey' and 'creek chubs'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'experiments']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['species', 'hellgrammites', 'greenside', 'darters', 'creek', 'chubs']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 60
+
+Loop
+Sentence of Species: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
+Species: 'species' from 88-88
+	Visited Species:
+		'multiple predator species' from 12-14 visited 2 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 1 times.
+--
+Expanding Species
+\Expanding Species - Now: predator species
+\Expanding Species - Now: multiple predator species
+Sentence of (Final) Expanded Species: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
+Final Expanded Species: 'multiple predator species' from 86-88
+Looking for Past References
+	Comparing 'multiple predator species' and 'multiple predator species'
+	'multiple predator species' == 'multiple predator species'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['combinations', 'resulted', 'reduction']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['resulted', 'combinations', 'reduction']
+Species in L-Sentence: []
+Species in R-Sentence: ['the', 'prey']
+Added 30 Points for Species, Now 90
+
+Loop
+Sentence of Species: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
+Species: 'multiple' from 137-137
+	Visited Species:
+		'multiple predator species' from 12-14 visited 3 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
+Final Expanded Species: 'multiple' from 137-137
+Looking for Past References
+	Comparing 'multiple' and 'multiple predator species'
+	'multiple' == 'multiple predator species'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['consequences', 'resulting', 'reduction']
+Change (Causative) Verbs in L-Sentence: ['reduction', 'resulting', 'consequences']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['consequences', 'for']
+Species in R-Sentence: []
+Added 40 Points for Species, Now 130
+
+Loop
+Sentence of Species: As a result, models predicting the combined risk from multiple predator species in this system will sometimes need to account for prey density as a factor influencing per-capita prey death rates.
+Species: 'multiple' from 174-174
+	Visited Species:
+		'multiple predator species' from 12-14 visited 4 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: As a result, models predicting the combined risk from multiple predator species in this system will sometimes need to account for prey density as a factor influencing per-capita prey death rates.
+Final Expanded Species: 'multiple' from 174-174
+Looking for Past References
+	Comparing 'multiple' and 'multiple predator species'
+	'multiple' == 'multiple predator species'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: ['combined', 'result']
+Change (Causative) Verbs in L-Sentence: ['combined', 'result']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
+Species: 'the' from 94-94
+	Visited Species:
+		'multiple predator species' from 12-14 visited 5 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
+Final Expanded Species: 'the' from 94-94
+Looking for Past References
+	Comparing 'the' and 'multiple predator species'
+	Comparing 'the' and 'hellgrammites'
+	Comparing 'the' and 'greenside darters'
+	Comparing 'the' and 'creek chubs'
+	Comparing 'the' and 'mayfly prey'
+	'the' == 'mayfly prey'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['combinations', 'resulted', 'reduction']
+Change (Causative) Verbs in L-Sentence: ['resulted', 'reduction']
+Change (Causative) Verbs in R-Sentence: ['combinations']
+Species in L-Sentence: ['species']
+Species in R-Sentence: ['prey']
+Added 20 Points for Species, Now 150
+
+Loop
+Sentence of Species: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
+Species: 'prey' from 95-95
+	Visited Species:
+		'multiple predator species' from 12-14 visited 5 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 2 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
+Final Expanded Species: 'prey' from 95-95
+Looking for Past References
+	Comparing 'prey' and 'multiple predator species'
+	Comparing 'prey' and 'hellgrammites'
+	Comparing 'prey' and 'greenside darters'
+	Comparing 'prey' and 'creek chubs'
+	Comparing 'prey' and 'mayfly prey'
+	'prey' == 'mayfly prey'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['combinations', 'resulted', 'reduction']
+Change (Causative) Verbs in L-Sentence: ['resulted', 'reduction']
+Change (Causative) Verbs in R-Sentence: ['combinations']
+Species in L-Sentence: ['species', 'the']
+Species in R-Sentence: []
+Added 30 Points for Species, Now 180
+
+Loop
+Sentence of Species: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
+Species: 'the' from 118-118
+	Visited Species:
+		'multiple predator species' from 12-14 visited 5 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 3 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
+Final Expanded Species: 'the' from 118-118
+Looking for Past References
+	Comparing 'the' and 'multiple predator species'
+	Comparing 'the' and 'hellgrammites'
+	Comparing 'the' and 'greenside darters'
+	Comparing 'the' and 'creek chubs'
+	Comparing 'the' and 'mayfly prey'
+	'the' == 'mayfly prey'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['consequences', 'resulting', 'reduction']
+Change (Causative) Verbs in L-Sentence: ['reduction']
+Change (Causative) Verbs in R-Sentence: ['resulting']
+Species in L-Sentence: []
+Species in R-Sentence: ['multiple', 'for']
+Added 40 Points for Species, Now 220
+
+Loop
+Sentence of Species: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
+Species: 'prey' from 119-119
+	Visited Species:
+		'multiple predator species' from 12-14 visited 5 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 4 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
+Final Expanded Species: 'prey' from 119-119
+Looking for Past References
+	Comparing 'prey' and 'multiple predator species'
+	Comparing 'prey' and 'hellgrammites'
+	Comparing 'prey' and 'greenside darters'
+	Comparing 'prey' and 'creek chubs'
+	Comparing 'prey' and 'mayfly prey'
+	'prey' == 'mayfly prey'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: ['consequences', 'resulting', 'reduction']
+Change (Causative) Verbs in L-Sentence: ['reduction', 'consequences']
+Change (Causative) Verbs in R-Sentence: ['resulting']
+Species in L-Sentence: ['consequences']
+Species in R-Sentence: ['multiple']
+Added 50 Points for Species, Now 270
+Points: 270
+Adjusted Points (6 Sentences): 45.0
+	Visited Species:
+		'multiple predator species' from 12-14 visited 5 times.
+		'hellgrammites' from 45-45 visited 1 times.
+		'greenside darters' from 47-48 visited 1 times.
+		'creek chubs' from 51-52 visited 1 times.
+		'mayfly prey' from 65-66 visited 5 times.
+--
+45.0 Points

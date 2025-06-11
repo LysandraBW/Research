@@ -1,0 +1,2609 @@
+Data Shape: (4, 4)
+Data Shape: (4, 4)
+Number of Texts: 4
+1/4 - Field evidence of trait‐mediated indirect interactions in a rocky intertidal food web
+[(136, 145), (150, 155)]
+[(87, 94), (162, 175)]
+[(745, 747), (885, 888)]
+
+
+
+
+Cluster Map
+{18: [their], 20: [predators], 13: [This, approach], 23: [focused, approach], 24: [focused, This], 123: [Our], 148: [We]}
+Species Spans:
+	'green crab' from 92-93
+	'Carcinus maenas' from 95-96
+	'herbivorous snails' from 116-117
+	'Littorina littorea' from 119-120
+	'green crabs' from 132-133
+--
+
+Loop
+Sentence of Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Species: 'green crab' from 92-93
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Final Expanded Species: 'green crab' from 92-93
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Species: 'Carcinus maenas' from 95-96
+	Visited Species:
+		'green crab' from 92-93 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Final Expanded Species: 'Carcinus maenas' from 95-96
+Looking for Past References
+	Comparing 'Carcinus maenas' and 'green crab'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Species: 'herbivorous snails' from 116-117
+	Visited Species:
+		'green crab' from 92-93 visited 1 times.
+		'Carcinus maenas' from 95-96 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Final Expanded Species: 'herbivorous snails' from 116-117
+Looking for Past References
+	Comparing 'herbivorous snails' and 'green crab'
+	Comparing 'herbivorous snails' and 'Carcinus maenas'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Species: 'Littorina littorea' from 119-120
+	Visited Species:
+		'green crab' from 92-93 visited 1 times.
+		'Carcinus maenas' from 95-96 visited 1 times.
+		'herbivorous snails' from 116-117 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ).
+Final Expanded Species: 'Littorina littorea' from 119-120
+Looking for Past References
+	Comparing 'Littorina littorea' and 'green crab'
+	Comparing 'Littorina littorea' and 'Carcinus maenas'
+	Comparing 'Littorina littorea' and 'herbivorous snails'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We found, however, that risk cues from green crabs can dramatically suppress snail grazing, with large effects on fucoid algal communities.
+Species: 'green crabs' from 132-133
+	Visited Species:
+		'green crab' from 92-93 visited 1 times.
+		'Carcinus maenas' from 95-96 visited 1 times.
+		'herbivorous snails' from 116-117 visited 1 times.
+		'Littorina littorea' from 119-120 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We found, however, that risk cues from green crabs can dramatically suppress snail grazing, with large effects on fucoid algal communities.
+Final Expanded Species: 'green crabs' from 132-133
+Looking for Past References
+	Comparing 'green crabs' and 'green crab'
+	'green crabs' == 'green crab'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['suppress']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['suppress']
+Species in L-Sentence: []
+Species in R-Sentence: []
+Points: 0
+Adjusted Points (6 Sentences): 0.0
+	Visited Species:
+		'green crab' from 92-93 visited 2 times.
+		'Carcinus maenas' from 95-96 visited 1 times.
+		'herbivorous snails' from 116-117 visited 1 times.
+		'Littorina littorea' from 119-120 visited 1 times.
+--
+0.0 Points
+2/4 - Delivering on a promise: integrating species traits to transform descriptive community ecology into a predictive science
+[(819, 826), (871, 882), (906, 909)]
+[(805, 811), (932, 955)]
+[(476, 478), (1083, 1085)]
+[(1481, 1492), (1550, 1555)]
+
+
+
+
+Cluster Map
+{126: [the, species, its], 135: [species, species, its], 136: [species, the, its], 141: [species, the, species], 124: [this, context-dependence], 147: [differ, context-dependence], 148: [differ, this], 68: [We], 169: [we], 235: [their], 246: [Researchers]}
+Species Spans:
+	'but' from 100-100
+	'trait' from 126-126
+	'traits' from 136-136
+	'of' from 167-167
+	'point' from 198-198
+	'the' from 135-135
+	'its' from 141-141
+--
+
+Loop
+Sentence of Species: Selection pressures do not act independently on single traits, but rather, on species whose success in a particular environment is controlled by many interacting traits.
+Species: 'but' from 100-100
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Selection pressures do not act independently on single traits, but rather, on species whose success in a particular environment is controlled by many interacting traits.
+Final Expanded Species: 'but' from 100-100
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Species: 'trait' from 126-126
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Final Expanded Species: 'trait' from 126-126
+Looking for Past References
+	Comparing 'trait' and 'but'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['differ']
+Species in L-Sentence: []
+Species in R-Sentence: ['traits', 'and', 'other']
+Added 10 Points for Species, Now 10
+
+Loop
+Sentence of Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Species: 'traits' from 136-136
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+		'trait' from 126-126 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Final Expanded Species: 'traits' from 136-136
+Looking for Past References
+	Comparing 'traits' and 'but'
+	Comparing 'traits' and 'trait'
+	'traits' == 'trait'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: ['differ']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['trait', 'other']
+Species in R-Sentence: ['and']
+Added 20 Points for Species, Now 30
+
+Loop
+Sentence of Species: Because of this context-dependence, trait-based approaches should take into account the way combinations of traits interact and are constrained within a species.
+Species: 'of' from 167-167
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+		'trait' from 126-126 visited 2 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Because of this context-dependence, trait-based approaches should take into account the way combinations of traits interact and are constrained within a species.
+Final Expanded Species: 'of' from 167-167
+Looking for Past References
+	Comparing 'of' and 'but'
+	Comparing 'of' and 'trait'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['dependence', 'constrained', 'combinations']
+Change (Causative) Verbs in L-Sentence: ['dependence', 'combinations']
+Change (Causative) Verbs in R-Sentence: ['constrained']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: We present a new framework in which trade-offs and other interactions between biological traits are taken as a starting point from which to develop a better mechanistic understanding of species occurrences.
+Species: 'point' from 198-198
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+		'trait' from 126-126 visited 2 times.
+		'of' from 167-167 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We present a new framework in which trade-offs and other interactions between biological traits are taken as a starting point from which to develop a better mechanistic understanding of species occurrences.
+Final Expanded Species: 'point' from 198-198
+Looking for Past References
+	Comparing 'point' and 'but'
+	Comparing 'point' and 'trait'
+	Comparing 'point' and 'of'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['occurrences', 'develop', 'understanding']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['occurrences', 'develop', 'understanding']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Species: 'the' from 135-135
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+		'trait' from 126-126 visited 2 times.
+		'of' from 167-167 visited 1 times.
+		'point' from 198-198 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Final Expanded Species: 'the' from 135-135
+Looking for Past References
+	Comparing 'the' and 'but'
+	Comparing 'the' and 'trait'
+	'the' == 'trait'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: ['differ']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['trait']
+Species in R-Sentence: ['traits', 'and']
+Added 30 Points for Species, Now 60
+
+Loop
+Sentence of Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Species: 'its' from 141-141
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+		'trait' from 126-126 visited 3 times.
+		'of' from 167-167 visited 1 times.
+		'point' from 198-198 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Therefore, the adaptive value of a particular trait may differ across species, depending on the other traits possessed by the species and the constraints of its body plan.
+Final Expanded Species: 'its' from 141-141
+Looking for Past References
+	Comparing 'its' and 'but'
+	Comparing 'its' and 'trait'
+	'its' == 'trait'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: ['differ']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['traits', 'trait', 'other']
+Species in R-Sentence: []
+Added 40 Points for Species, Now 100
+Points: 100
+Adjusted Points (11 Sentences): 9.090909090909092
+	Visited Species:
+		'but' from 100-100 visited 1 times.
+		'trait' from 126-126 visited 4 times.
+		'of' from 167-167 visited 1 times.
+		'point' from 198-198 visited 1 times.
+--
+9.090909090909092 Points
+3/4 - Ecological and evolutionary determinants of a key plant functional trait: wood density and its community‐wide variation across latitude and elevation
+[(38, 43), (58, 63)]
+[(322, 333), (891, 902)]
+[(241, 243), (1076, 1079)]
+
+
+
+
+Cluster Map
+{7: [their], 10: [trees], 52: [gymnosperms], 138: [gymnosperms], 39: [our], 170: [we]}
+Species Spans:
+	'trees' from 7-7
+	'seed plants' from 33-34
+	'gymnosperms' from 52-52
+	'angiosperms' from 54-54
+	'seed plant' from 74-75
+	'seed plant' from 102-103
+	'gymnosperms' from 138-138
+	'angiosperms' from 148-148
+	'their' from 10-10
+--
+
+Loop
+Sentence of Species: Wood density is an important trait in trees indicative of their life history and mechanical and physiological strategies.
+Species: 'trees' from 7-7
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Wood density is an important trait in trees indicative of their life history and mechanical and physiological strategies.
+Final Expanded Species: 'trees' from 7-7
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The following examines the evolutionary ecology of wood density using a large database for seed plants.
+Species: 'seed plants' from 33-34
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The following examines the evolutionary ecology of wood density using a large database for seed plants.
+Final Expanded Species: 'seed plants' from 33-34
+Looking for Past References
+	Comparing 'seed plants' and 'trees'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: In particular, we focused on the geographic and phylogenetic variation in wood density for both gymnosperms and angiosperms.
+Species: 'gymnosperms' from 52-52
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In particular, we focused on the geographic and phylogenetic variation in wood density for both gymnosperms and angiosperms.
+Final Expanded Species: 'gymnosperms' from 52-52
+Looking for Past References
+	Comparing 'gymnosperms' and 'trees'
+	Comparing 'gymnosperms' and 'seed plants'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: In particular, we focused on the geographic and phylogenetic variation in wood density for both gymnosperms and angiosperms.
+Species: 'angiosperms' from 54-54
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 1 times.
+		'gymnosperms' from 52-52 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In particular, we focused on the geographic and phylogenetic variation in wood density for both gymnosperms and angiosperms.
+Final Expanded Species: 'angiosperms' from 54-54
+Looking for Past References
+	Comparing 'angiosperms' and 'trees'
+	Comparing 'angiosperms' and 'seed plants'
+	Comparing 'angiosperms' and 'gymnosperms'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: A phylogenetic supertree was constructed for over 4600 taxa, allowing for comprehensive analyses of divergences across the seed plant phylogeny.
+Species: 'seed plant' from 74-75
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 1 times.
+		'gymnosperms' from 52-52 visited 1 times.
+		'angiosperms' from 54-54 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: A phylogenetic supertree was constructed for over 4600 taxa, allowing for comprehensive analyses of divergences across the seed plant phylogeny.
+Final Expanded Species: 'seed plant' from 74-75
+Looking for Past References
+	Comparing 'seed plant' and 'trees'
+	Comparing 'seed plant' and 'seed plants'
+	'seed plant' == 'seed plants'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['constructed', 'divergences']
+Change (Causative) Verbs in L-Sentence: ['constructed', 'divergences']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Wood density was generally highly conserved across the entire seed plant phylogeny, yet large divergences were found within the rosid clade.
+Species: 'seed plant' from 102-103
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 2 times.
+		'gymnosperms' from 52-52 visited 1 times.
+		'angiosperms' from 54-54 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Wood density was generally highly conserved across the entire seed plant phylogeny, yet large divergences were found within the rosid clade.
+Final Expanded Species: 'seed plant' from 102-103
+Looking for Past References
+	Comparing 'seed plant' and 'trees'
+	Comparing 'seed plant' and 'seed plants'
+	'seed plant' == 'seed plants'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['divergences']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['divergences']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: Geographic and community variation in wood density, however, was significantly lower in temperate and high elevation communities, dominated by gymnosperms, than in tropical lowland communities, dominated by angiosperms, suggesting an increase in trait and, to some extent, clade filtering with latitude and elevation.
+Species: 'gymnosperms' from 138-138
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 3 times.
+		'gymnosperms' from 52-52 visited 1 times.
+		'angiosperms' from 54-54 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Geographic and community variation in wood density, however, was significantly lower in temperate and high elevation communities, dominated by gymnosperms, than in tropical lowland communities, dominated by angiosperms, suggesting an increase in trait and, to some extent, clade filtering with latitude and elevation.
+Final Expanded Species: 'gymnosperms' from 138-138
+Looking for Past References
+	Comparing 'gymnosperms' and 'trees'
+	Comparing 'gymnosperms' and 'seed plants'
+	Comparing 'gymnosperms' and 'gymnosperms'
+	'gymnosperms' == 'gymnosperms'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['increase']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['increase']
+Species in L-Sentence: []
+Species in R-Sentence: ['angiosperms']
+Added 20 Points for Species, Now 20
+
+Loop
+Sentence of Species: Geographic and community variation in wood density, however, was significantly lower in temperate and high elevation communities, dominated by gymnosperms, than in tropical lowland communities, dominated by angiosperms, suggesting an increase in trait and, to some extent, clade filtering with latitude and elevation.
+Species: 'angiosperms' from 148-148
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 3 times.
+		'gymnosperms' from 52-52 visited 2 times.
+		'angiosperms' from 54-54 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Geographic and community variation in wood density, however, was significantly lower in temperate and high elevation communities, dominated by gymnosperms, than in tropical lowland communities, dominated by angiosperms, suggesting an increase in trait and, to some extent, clade filtering with latitude and elevation.
+Final Expanded Species: 'angiosperms' from 148-148
+Looking for Past References
+	Comparing 'angiosperms' and 'trees'
+	Comparing 'angiosperms' and 'seed plants'
+	Comparing 'angiosperms' and 'gymnosperms'
+	Comparing 'angiosperms' and 'angiosperms'
+	'angiosperms' == 'angiosperms'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['increase']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['increase']
+Species in L-Sentence: ['gymnosperms']
+Species in R-Sentence: []
+Added 20 Points for Species, Now 40
+
+Loop
+Sentence of Species: Wood density is an important trait in trees indicative of their life history and mechanical and physiological strategies.
+Species: 'their' from 10-10
+	Visited Species:
+		'trees' from 7-7 visited 1 times.
+		'seed plants' from 33-34 visited 3 times.
+		'gymnosperms' from 52-52 visited 2 times.
+		'angiosperms' from 54-54 visited 2 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Wood density is an important trait in trees indicative of their life history and mechanical and physiological strategies.
+Final Expanded Species: 'their' from 10-10
+Looking for Past References
+	Comparing 'their' and 'trees'
+	'their' == 'trees'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+Points: 40
+Adjusted Points (8 Sentences): 5.0
+	Visited Species:
+		'trees' from 7-7 visited 2 times.
+		'seed plants' from 33-34 visited 3 times.
+		'gymnosperms' from 52-52 visited 2 times.
+		'angiosperms' from 54-54 visited 2 times.
+--
+5.0 Points
+4/4 - Plant root and mycorrhizal fungal traits for understanding soil aggregation
+[(0, 16), (188, 190)]
+[(719, 751), (756, 761)]
+[(805, 816), (821, 826)]
+[(583, 593), (923, 933)]
+[(595, 599), (958, 962), (2062, 2066), (7404, 7408)]
+[(988, 1024), (1050, 1055)]
+[(1148, 1152), (1169, 1173)]
+[(935, 939), (1194, 1198), (1212, 1216)]
+[(1255, 1259), (1275, 1279)]
+[(905, 921), (1395, 1406)]
+[(1323, 1329), (1408, 1412)]
+[(1658, 1662), (1740, 1748)]
+[(3258, 3368), (3374, 3376)]
+[(3536, 3538), (3688, 3692)]
+[(4156, 4162), (4221, 4225)]
+[(4288, 4301), (4345, 4357)]
+[(4459, 4477), (4828, 4846)]
+[(4873, 4888), (4926, 4931)]
+[(6520, 6534), (6554, 6558)]
+[(5899, 5917), (6694, 6712)]
+[(7012, 7023), (7045, 7049), (9953, 9965)]
+[(7804, 7855), (7876, 7897), (8261, 8273)]
+[(8341, 8378), (8392, 8407), (8449, 8454)]
+[(8782, 8794), (8808, 8810)]
+[(9114, 9130), (9132, 9137)]
+[(8941, 8951), (9369, 9379)]
+[(9785, 9820), (9842, 9854)]
+[(2133, 2148), (10064, 10079)]
+[(2133, 2160), (10064, 10091)]
+[(2151, 2160), (10082, 10091)]
+[(2162, 2166), (10093, 10097)]
+[(10971, 10987), (11071, 11076), (11148, 11153)]
+[(11641, 11656), (11687, 11691)]
+[(12088, 12146), (12159, 12164)]
+[(12706, 12729), (12735, 12740)]
+
+
+
+
+Cluster Map
+{0: [aggregation, it], 1: [Soil, it], 32: [Soil, aggregation], 133: [and, multiple, biota, groups, their], 134: [plants, multiple, biota, groups, their], 135: [plants, and, biota, groups, their], 136: [plants, and, multiple, groups, their], 137: [plants, and, multiple, biota, their], 139: [plants, and, multiple, biota, groups], 148: [roots, their], 149: [plant, their], 151: [plant, roots], 103: [et, al., Six, et, al.], 104: [Six, al., Six, et, al.], 105: [Six, et, Six, et, al.], 167: [Six, et, al., et, al.], 168: [Six, et, al., Six, al.], 169: [Six, et, al., Six, et], 107: [2006, 2006, 2006], 177: [2006, 2006, 2006], 386: [2006, 2006, 2006], 1263: [2006, 2006, 2006], 186: [and, mycorrhizal, fungal, species, their], 187: [Plant, mycorrhizal, fungal, species, their], 188: [Plant, and, fungal, species, their], 189: [Plant, and, mycorrhizal, species, their], 190: [Plant, and, mycorrhizal, fungal, their], 196: [Plant, and, mycorrhizal, fungal, species], 218: [2002], 224: [2002], 171: [2004, 2004], 230: [2004, 2004], 236: [2004, 2004], 248: [2013], 254: [2013], 164: [aggregation, this, effect], 165: [soil, this, effect], 277: [soil, aggregation, effect], 278: [soil, aggregation, this], 265: [This], 280: [become], 317: [this, end], 331: [lack, end], 332: [lack, this], 582: [trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 583: [a, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 584: [a, trait-based, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 585: [a, trait-based, approach, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 586: [a, trait-based, approach, applied, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 587: [a, trait-based, approach, applied, to, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 588: [a, trait-based, approach, applied, to, the, of, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 589: [a, trait-based, approach, applied, to, the, understanding, mycorrhizal, and, plant, contributions, to, soil, aggregation, it], 590: [a, trait-based, approach, applied, to, the, understanding, of, and, plant, contributions, to, soil, aggregation, it], 591: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, plant, contributions, to, soil, aggregation, it], 592: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, contributions, to, soil, aggregation, it], 593: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, to, soil, aggregation, it], 594: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, soil, aggregation, it], 595: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, aggregation, it], 596: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, it], 601: [a, trait-based, approach, applied, to, the, understanding, of, mycorrhizal, and, plant, contributions, to, soil, aggregation], 626: [This], 648: [is], 722: [this], 733: [relate], 744: [this, process], 752: [deterioration, process], 753: [deterioration, this], 781: [three, traits, these, three, traits], 782: [these, traits, these, three, traits], 783: [these, three, these, three, traits], 845: [these, three, traits, three, traits], 846: [these, three, traits, these, traits], 847: [these, three, traits, these, three], 852: [or, roots, their], 853: [hyphae, roots, their], 854: [hyphae, or, their], 860: [hyphae, or, roots], 1117: [particles, them], 1118: [soil, them], 1122: [soil, particles], 1016: [three, traits, these, three, traits], 1017: [these, traits, these, three, traits], 1018: [these, three, these, three, traits], 1149: [these, three, traits, three, traits], 1150: [these, three, traits, these, traits], 1151: [these, three, traits, these, three], 1198: [traits, they, these, traits], 1199: [some, they, these, traits], 1204: [some, traits, these, traits], 1711: [some, traits, they, traits], 1712: [some, traits, they, these], 1339: [specific, physiological, or, architectural, traits, these, specific, traits, these, traits], 1340: [more, physiological, or, architectural, traits, these, specific, traits, these, traits], 1341: [more, specific, or, architectural, traits, these, specific, traits, these, traits], 1342: [more, specific, physiological, architectural, traits, these, specific, traits, these, traits], 1343: [more, specific, physiological, or, traits, these, specific, traits, these, traits], 1344: [more, specific, physiological, or, architectural, these, specific, traits, these, traits], 1350: [more, specific, physiological, or, architectural, traits, specific, traits, these, traits], 1351: [more, specific, physiological, or, architectural, traits, these, traits, these, traits], 1352: [more, specific, physiological, or, architectural, traits, these, specific, these, traits], 1416: [more, specific, physiological, or, architectural, traits, these, specific, traits, traits], 1417: [more, specific, physiological, or, architectural, traits, these, specific, traits, these], 1428: [formation, and, stabilization, these, processes, these], 1429: [aggregate, and, stabilization, these, processes, these], 1430: [aggregate, formation, stabilization, these, processes, these], 1431: [aggregate, formation, and, these, processes, these], 1435: [aggregate, formation, and, stabilization, processes, these], 1436: [aggregate, formation, and, stabilization, these, these], 1443: [aggregate, formation, and, stabilization, these, processes], 1494: [aggregate, it], 1495: [an, it], 1498: [an, aggregate], 1555: [and, hyphae, their], 1556: [roots, hyphae, their], 1557: [roots, and, their], 1559: [roots, and, hyphae], 1521: [et, al., Six, et, al.], 1522: [Six, al., Six, et, al.], 1523: [Six, et, Six, et, al.], 1602: [Six, et, al., et, al.], 1603: [Six, et, al., Six, al.], 1604: [Six, et, al., Six, et], 1678: [range, of, plant, and, fungal, species, these, traits], 1679: [a, of, plant, and, fungal, species, these, traits], 1680: [a, range, plant, and, fungal, species, these, traits], 1681: [a, range, of, and, fungal, species, these, traits], 1682: [a, range, of, plant, fungal, species, these, traits], 1683: [a, range, of, plant, and, species, these, traits], 1684: [a, range, of, plant, and, fungal, these, traits], 1689: [a, range, of, plant, and, fungal, species, traits], 1690: [a, range, of, plant, and, fungal, species, these], 400: [der, Heijden, &, Scheublin, Van, der, Heijden, &, Scheublin], 401: [van, Heijden, &, Scheublin, Van, der, Heijden, &, Scheublin], 402: [van, der, &, Scheublin, Van, der, Heijden, &, Scheublin], 1731: [van, der, Heijden, &, Scheublin, der, Heijden, &, Scheublin], 1732: [van, der, Heijden, &, Scheublin, Van, Heijden, &, Scheublin], 1733: [van, der, Heijden, &, Scheublin, Van, der, &, Scheublin], 403: [van, der, Heijden, Scheublin, Van, der, Heijden, &, Scheublin], 404: [Scheublin], 1734: [van, der, Heijden, &, Scheublin, Van, der, Heijden, Scheublin], 1735: [Scheublin], 406: [2007], 1737: [2007], 1902: [root, traits, their, these], 1903: [some, traits, their, these], 1904: [some, root, their, these], 1918: [some, root, traits, these], 1935: [some, root, traits, their], 2013: [trait, data, they], 2014: [some, data, they], 2015: [some, trait, they], 2020: [some, trait, data], 2097: [and, mycorrhizal, fungal, traits, for, a, number, of, species, these], 2098: [root, mycorrhizal, fungal, traits, for, a, number, of, species, these], 2099: [root, and, fungal, traits, for, a, number, of, species, these], 2100: [root, and, mycorrhizal, traits, for, a, number, of, species, these], 2101: [root, and, mycorrhizal, fungal, for, a, number, of, species, these], 2102: [root, and, mycorrhizal, fungal, traits, a, number, of, species, these], 2103: [root, and, mycorrhizal, fungal, traits, for, number, of, species, these], 2104: [root, and, mycorrhizal, fungal, traits, for, a, of, species, these], 2105: [root, and, mycorrhizal, fungal, traits, for, a, number, species, these], 2106: [root, and, mycorrhizal, fungal, traits, for, a, number, of, these], 2109: [root, and, mycorrhizal, fungal, traits, for, a, number, of, species], 2189: [symbiotic, fungi, their], 2191: [plants, fungi, their], 2192: [plants, symbiotic, their], 2195: [plants, symbiotic, fungi]}
+Species Spans:
+	'microbes' from 41-41
+	'mediated' from 133-133
+	'). Plant' from 188-190
+	'Therefore' from 325-325
+	'root' from 368-368
+	'progress' from 451-451
+	',' from 487-487
+	'management and' from 489-490
+	'the' from 520-520
+	'of state variables' from 522-524
+	'?' from 533-533
+	'of plant' from 553-554
+	'enhance' from 590-590
+	'aggregation' from 592-592
+	'to the' from 611-612
+	'component' from 689-689
+	'macroaggregates' from 702-702
+	'fueled' from 728-728
+	'of fungi' from 730-731
+	'strains/' from 1834-1835
+	'-' from 2189-2189
+	'traits' from 2192-2192
+	'and their' from 2253-2254
+	'.' from 2278-2278
+	'and' from 134-134
+	'multiple' from 135-135
+	'biota' from 136-136
+	'groups' from 137-137
+	'their' from 139-139
+	'Plant' from 186-186
+	'and' from 187-187
+	'their' from 196-196
+	'a' from 582-582
+	'trait-based' from 583-583
+	'approach' from 584-584
+	'applied' from 585-585
+	'to' from 586-586
+	'the' from 587-587
+	'understanding' from 588-588
+	'of' from 589-589
+	'and' from 591-591
+	'contributions' from 593-593
+	'to' from 594-594
+	'soil' from 595-595
+	'aggregation' from 596-596
+	'it' from 601-601
+	'symbiotic' from 2191-2191
+	'their' from 2195-2195
+--
+
+Loop
+Sentence of Species: As such, it significantly alters the environment of plant roots and microbes in a multitude of ways; thus, soil structure provides the basic setting in which mycorrhizas operate and have evolved.
+Species: 'microbes' from 41-41
+	Visited Species:
+		
+--
+Expanding Species
+Sentence of (Final) Expanded Species: As such, it significantly alters the environment of plant roots and microbes in a multitude of ways; thus, soil structure provides the basic setting in which mycorrhizas operate and have evolved.
+Final Expanded Species: 'microbes' from 41-41
+Looking for Past References
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['alters', 'operate', 'provides']
+Change (Causative) Verbs in L-Sentence: ['alters']
+Change (Causative) Verbs in R-Sentence: ['operate', 'provides']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: 'mediated' from 133-133
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: 'mediated' from 133-133
+Looking for Past References
+	Comparing 'mediated' and 'microbes'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: '). Plant' from 188-190
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: '). Plant' from 188-190
+Looking for Past References
+	Comparing '). Plant' and 'microbes'
+	Comparing '). Plant' and 'mediated'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['contribute', 'differ']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['contribute', 'differ']
+Species in L-Sentence: ['mediated', 'by', 'plants', 'and', 'multiple', 'groups', ',', '2014']
+Species in R-Sentence: ['respectively']
+Added 10 Points for Species, Now 10
+
+Loop
+Sentence of Species: Therefore, we lack a mechanistic understanding of the role of organisms in soil aggregation.
+Species: 'Therefore' from 325-325
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Therefore, we lack a mechanistic understanding of the role of organisms in soil aggregation.
+Final Expanded Species: 'Therefore' from 325-325
+Looking for Past References
+	Comparing 'Therefore' and 'microbes'
+	Comparing 'Therefore' and 'mediated'
+	Comparing 'Therefore' and '). Plant'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['understanding']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['understanding']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: To this end, we argue for a shift from a classical species-based comparative approach, or the mere consideration of summary variables (e.g. root length) to a systematic trait-based approach.
+Species: 'root' from 368-368
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: To this end, we argue for a shift from a classical species-based comparative approach, or the mere consideration of summary variables (e.g. root length) to a systematic trait-based approach.
+Final Expanded Species: 'root' from 368-368
+Looking for Past References
+	Comparing 'root' and 'microbes'
+	Comparing 'root' and 'mediated'
+	Comparing 'root' and '). Plant'
+	Comparing 'root' and 'Therefore'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: We believe trait-approaches are a promising tool to achieve progress in our mechanistic understanding of soil aggregation from an organismic perspective, to enhance our predictive ability regarding effects of plant and fungal diversity, and to ultimately provide informed recommendations for, for example, agricultural management and environmental restoration.
+Species: 'progress' from 451-451
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We believe trait-approaches are a promising tool to achieve progress in our mechanistic understanding of soil aggregation from an organismic perspective, to enhance our predictive ability regarding effects of plant and fungal diversity, and to ultimately provide informed recommendations for, for example, agricultural management and environmental restoration.
+Final Expanded Species: 'progress' from 451-451
+Looking for Past References
+	Comparing 'progress' and 'microbes'
+	Comparing 'progress' and 'mediated'
+	Comparing 'progress' and '). Plant'
+	Comparing 'progress' and 'Therefore'
+	Comparing 'progress' and 'root'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['provide', 'achieve', 'progress', 'understanding', 'enhance']
+Change (Causative) Verbs in L-Sentence: ['achieve']
+Change (Causative) Verbs in R-Sentence: ['provide', 'enhance', 'understanding']
+Species in L-Sentence: []
+Species in R-Sentence: ['management', 'and', ',']
+Added 10 Points for Species, Now 20
+
+Loop
+Sentence of Species: We believe trait-approaches are a promising tool to achieve progress in our mechanistic understanding of soil aggregation from an organismic perspective, to enhance our predictive ability regarding effects of plant and fungal diversity, and to ultimately provide informed recommendations for, for example, agricultural management and environmental restoration.
+Species: ',' from 487-487
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We believe trait-approaches are a promising tool to achieve progress in our mechanistic understanding of soil aggregation from an organismic perspective, to enhance our predictive ability regarding effects of plant and fungal diversity, and to ultimately provide informed recommendations for, for example, agricultural management and environmental restoration.
+Final Expanded Species: ',' from 487-487
+Looking for Past References
+	Comparing ',' and 'microbes'
+	Comparing ',' and 'mediated'
+	Comparing ',' and '). Plant'
+	Comparing ',' and 'Therefore'
+	Comparing ',' and 'root'
+	Comparing ',' and 'progress'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['provide', 'achieve', 'progress', 'understanding', 'enhance']
+Change (Causative) Verbs in L-Sentence: ['provide', 'achieve', 'progress', 'understanding', 'enhance']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['progress']
+Species in R-Sentence: ['management', 'and']
+Added 10 Points for Species, Now 30
+
+Loop
+Sentence of Species: We believe trait-approaches are a promising tool to achieve progress in our mechanistic understanding of soil aggregation from an organismic perspective, to enhance our predictive ability regarding effects of plant and fungal diversity, and to ultimately provide informed recommendations for, for example, agricultural management and environmental restoration.
+Species: 'management and' from 489-490
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: We believe trait-approaches are a promising tool to achieve progress in our mechanistic understanding of soil aggregation from an organismic perspective, to enhance our predictive ability regarding effects of plant and fungal diversity, and to ultimately provide informed recommendations for, for example, agricultural management and environmental restoration.
+Final Expanded Species: 'management and' from 489-490
+Looking for Past References
+	Comparing 'management and' and 'microbes'
+	Comparing 'management and' and 'mediated'
+	Comparing 'management and' and '). Plant'
+	Comparing 'management and' and 'Therefore'
+	Comparing 'management and' and 'root'
+	Comparing 'management and' and 'progress'
+	Comparing 'management and' and ','
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['provide', 'achieve', 'progress', 'understanding', 'enhance']
+Change (Causative) Verbs in L-Sentence: ['provide', 'achieve', 'progress', 'understanding', 'enhance']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['progress', ',']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 40
+
+Loop
+Sentence of Species: With such data we can then ultimately address questions such as: how can plant and mycorrhizal fungal community data enhance prediction of soil aggregation beyond the consideration of state variables such as soil type, climate and management?
+Species: 'the' from 520-520
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: With such data we can then ultimately address questions such as: how can plant and mycorrhizal fungal community data enhance prediction of soil aggregation beyond the consideration of state variables such as soil type, climate and management?
+Final Expanded Species: 'the' from 520-520
+Looking for Past References
+	Comparing 'the' and 'microbes'
+	Comparing 'the' and 'mediated'
+	Comparing 'the' and '). Plant'
+	Comparing 'the' and 'Therefore'
+	Comparing 'the' and 'root'
+	Comparing 'the' and 'progress'
+	Comparing 'the' and ','
+	Comparing 'the' and 'management and'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['enhance']
+Change (Causative) Verbs in L-Sentence: ['enhance']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: ['of', 'state', 'variables', '?']
+Added 10 Points for Species, Now 50
+
+Loop
+Sentence of Species: With such data we can then ultimately address questions such as: how can plant and mycorrhizal fungal community data enhance prediction of soil aggregation beyond the consideration of state variables such as soil type, climate and management?
+Species: 'of state variables' from 522-524
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: With such data we can then ultimately address questions such as: how can plant and mycorrhizal fungal community data enhance prediction of soil aggregation beyond the consideration of state variables such as soil type, climate and management?
+Final Expanded Species: 'of state variables' from 522-524
+Looking for Past References
+	Comparing 'of state variables' and 'microbes'
+	Comparing 'of state variables' and 'mediated'
+	Comparing 'of state variables' and '). Plant'
+	Comparing 'of state variables' and 'Therefore'
+	Comparing 'of state variables' and 'root'
+	Comparing 'of state variables' and 'progress'
+	Comparing 'of state variables' and ','
+	Comparing 'of state variables' and 'management and'
+	Comparing 'of state variables' and 'the'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['enhance']
+Change (Causative) Verbs in L-Sentence: ['enhance']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['the']
+Species in R-Sentence: ['?']
+Added 10 Points for Species, Now 60
+
+Loop
+Sentence of Species: With such data we can then ultimately address questions such as: how can plant and mycorrhizal fungal community data enhance prediction of soil aggregation beyond the consideration of state variables such as soil type, climate and management?
+Species: '?' from 533-533
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 1 times.
+		'of state variables' from 522-524 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: With such data we can then ultimately address questions such as: how can plant and mycorrhizal fungal community data enhance prediction of soil aggregation beyond the consideration of state variables such as soil type, climate and management?
+Final Expanded Species: '?' from 533-533
+Looking for Past References
+	Comparing '?' and 'microbes'
+	Comparing '?' and 'mediated'
+	Comparing '?' and '). Plant'
+	Comparing '?' and 'Therefore'
+	Comparing '?' and 'root'
+	Comparing '?' and 'progress'
+	Comparing '?' and ','
+	Comparing '?' and 'management and'
+	Comparing '?' and 'the'
+	Comparing '?' and 'of state variables'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['enhance']
+Change (Causative) Verbs in L-Sentence: ['enhance']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['the', 'of', 'state', 'variables']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 70
+
+Loop
+Sentence of Species: Is soil aggregation an intermediate driver of plant and mycorrhizal fungal community processes and thus also an integral part of plant–soil feedbacks?
+Species: 'of plant' from 553-554
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 1 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 1 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Is soil aggregation an intermediate driver of plant and mycorrhizal fungal community processes and thus also an integral part of plant–soil feedbacks?
+Final Expanded Species: 'of plant' from 553-554
+Looking for Past References
+	Comparing 'of plant' and 'microbes'
+	Comparing 'of plant' and 'mediated'
+	Comparing 'of plant' and '). Plant'
+	'of plant' == '). Plant'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: And, on the applied side, can we enhance ecosystem restoration by designing tailor-made mycorrhizal fungal inocula and seed mixes specifically optimized for complementarity in the ability to enhance soil aggregation?
+Species: 'enhance' from 590-590
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 1 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: And, on the applied side, can we enhance ecosystem restoration by designing tailor-made mycorrhizal fungal inocula and seed mixes specifically optimized for complementarity in the ability to enhance soil aggregation?
+Final Expanded Species: 'enhance' from 590-590
+Looking for Past References
+	Comparing 'enhance' and 'microbes'
+	Comparing 'enhance' and 'mediated'
+	Comparing 'enhance' and '). Plant'
+	Comparing 'enhance' and 'Therefore'
+	Comparing 'enhance' and 'root'
+	Comparing 'enhance' and 'progress'
+	Comparing 'enhance' and ','
+	Comparing 'enhance' and 'management and'
+	Comparing 'enhance' and 'the'
+	Comparing 'enhance' and 'of state variables'
+	Comparing 'enhance' and '?'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['enhance', 'complementarity', 'enhance']
+Change (Causative) Verbs in L-Sentence: ['enhance', 'complementarity']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to']
+Species in R-Sentence: ['aggregation', '?', 'soil']
+Added 10 Points for Species, Now 80
+
+Loop
+Sentence of Species: And, on the applied side, can we enhance ecosystem restoration by designing tailor-made mycorrhizal fungal inocula and seed mixes specifically optimized for complementarity in the ability to enhance soil aggregation?
+Species: 'aggregation' from 592-592
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 1 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: And, on the applied side, can we enhance ecosystem restoration by designing tailor-made mycorrhizal fungal inocula and seed mixes specifically optimized for complementarity in the ability to enhance soil aggregation?
+Final Expanded Species: 'aggregation' from 592-592
+Looking for Past References
+	Comparing 'aggregation' and 'microbes'
+	Comparing 'aggregation' and 'mediated'
+	Comparing 'aggregation' and '). Plant'
+	Comparing 'aggregation' and 'Therefore'
+	Comparing 'aggregation' and 'root'
+	Comparing 'aggregation' and 'progress'
+	Comparing 'aggregation' and ','
+	Comparing 'aggregation' and 'management and'
+	Comparing 'aggregation' and 'the'
+	Comparing 'aggregation' and 'of state variables'
+	Comparing 'aggregation' and '?'
+	Comparing 'aggregation' and 'enhance'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['enhance', 'complementarity', 'enhance']
+Change (Causative) Verbs in L-Sentence: ['enhance', 'complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil']
+Species in R-Sentence: ['?']
+Added 10 Points for Species, Now 90
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'to the' from 611-612
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 1 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'to the' from 611-612
+Looking for Past References
+	Comparing 'to the' and 'microbes'
+	Comparing 'to the' and 'mediated'
+	Comparing 'to the' and '). Plant'
+	Comparing 'to the' and 'Therefore'
+	Comparing 'to the' and 'root'
+	Comparing 'to the' and 'progress'
+	Comparing 'to the' and ','
+	Comparing 'to the' and 'management and'
+	Comparing 'to the' and 'the'
+	'to the' == 'the'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['productivity', 'understanding', 'complementarity']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['productivity', 'understanding', 'complementarity']
+Species in L-Sentence: ['see', 'In', 'addition', 'to']
+Species in R-Sentence: []
+Added 20 Points for Species, Now 110
+
+Loop
+Sentence of Species: This is very likely true because soil aggregation is the result of multiple interlocking component processes such as aggregate formation and stabilization (both of microaggregates and macroaggregates) which might be driven by different sets of traits represented in different species.
+Species: 'component' from 689-689
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: This is very likely true because soil aggregation is the result of multiple interlocking component processes such as aggregate formation and stabilization (both of microaggregates and macroaggregates) which might be driven by different sets of traits represented in different species.
+Final Expanded Species: 'component' from 689-689
+Looking for Past References
+	Comparing 'component' and 'microbes'
+	Comparing 'component' and 'mediated'
+	Comparing 'component' and '). Plant'
+	Comparing 'component' and 'Therefore'
+	Comparing 'component' and 'root'
+	Comparing 'component' and 'progress'
+	Comparing 'component' and ','
+	Comparing 'component' and 'management and'
+	Comparing 'component' and 'the'
+	Comparing 'component' and 'of state variables'
+	Comparing 'component' and '?'
+	Comparing 'component' and 'enhance'
+	Comparing 'component' and 'aggregation'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['stabilization', 'result']
+Change (Causative) Verbs in L-Sentence: ['result']
+Change (Causative) Verbs in R-Sentence: ['stabilization']
+Species in L-Sentence: []
+Species in R-Sentence: ['macroaggregates']
+Added 10 Points for Species, Now 120
+
+Loop
+Sentence of Species: This is very likely true because soil aggregation is the result of multiple interlocking component processes such as aggregate formation and stabilization (both of microaggregates and macroaggregates) which might be driven by different sets of traits represented in different species.
+Species: 'macroaggregates' from 702-702
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: This is very likely true because soil aggregation is the result of multiple interlocking component processes such as aggregate formation and stabilization (both of microaggregates and macroaggregates) which might be driven by different sets of traits represented in different species.
+Final Expanded Species: 'macroaggregates' from 702-702
+Looking for Past References
+	Comparing 'macroaggregates' and 'microbes'
+	Comparing 'macroaggregates' and 'mediated'
+	Comparing 'macroaggregates' and '). Plant'
+	Comparing 'macroaggregates' and 'Therefore'
+	Comparing 'macroaggregates' and 'root'
+	Comparing 'macroaggregates' and 'progress'
+	Comparing 'macroaggregates' and ','
+	Comparing 'macroaggregates' and 'management and'
+	Comparing 'macroaggregates' and 'the'
+	Comparing 'macroaggregates' and 'of state variables'
+	Comparing 'macroaggregates' and '?'
+	Comparing 'macroaggregates' and 'enhance'
+	Comparing 'macroaggregates' and 'aggregation'
+	Comparing 'macroaggregates' and 'component'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['stabilization', 'result']
+Change (Causative) Verbs in L-Sentence: ['stabilization', 'result']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['component']
+Species in R-Sentence: []
+Added 10 Points for Species, Now 130
+
+Loop
+Sentence of Species: Additionally, soil aggregation may be stimulated through diversity-fueled overyielding of fungi and roots through niche complementarity (also see Table 1); (2) if we can convincingly relate soil structure to traits of plant and fungal communities, this will allow predicting which ecosystems are under most risk of deterioration and also guide towards measures to counter this process.
+Species: 'fueled' from 728-728
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Additionally, soil aggregation may be stimulated through diversity-fueled overyielding of fungi and roots through niche complementarity (also see Table 1); (2) if we can convincingly relate soil structure to traits of plant and fungal communities, this will allow predicting which ecosystems are under most risk of deterioration and also guide towards measures to counter this process.
+Final Expanded Species: 'fueled' from 728-728
+Looking for Past References
+	Comparing 'fueled' and 'microbes'
+	Comparing 'fueled' and 'mediated'
+	Comparing 'fueled' and '). Plant'
+	Comparing 'fueled' and 'Therefore'
+	Comparing 'fueled' and 'root'
+	Comparing 'fueled' and 'progress'
+	Comparing 'fueled' and ','
+	Comparing 'fueled' and 'management and'
+	Comparing 'fueled' and 'the'
+	Comparing 'fueled' and 'of state variables'
+	Comparing 'fueled' and '?'
+	Comparing 'fueled' and 'enhance'
+	Comparing 'fueled' and 'aggregation'
+	Comparing 'fueled' and 'component'
+	Comparing 'fueled' and 'macroaggregates'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['complementarity', 'measures', 'stimulated', 'deterioration']
+Change (Causative) Verbs in L-Sentence: ['stimulated']
+Change (Causative) Verbs in R-Sentence: ['complementarity', 'measures', 'deterioration']
+Species in L-Sentence: []
+Species in R-Sentence: ['of', 'fungi']
+Added 10 Points for Species, Now 140
+
+Loop
+Sentence of Species: Additionally, soil aggregation may be stimulated through diversity-fueled overyielding of fungi and roots through niche complementarity (also see Table 1); (2) if we can convincingly relate soil structure to traits of plant and fungal communities, this will allow predicting which ecosystems are under most risk of deterioration and also guide towards measures to counter this process.
+Species: 'of fungi' from 730-731
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 1 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Additionally, soil aggregation may be stimulated through diversity-fueled overyielding of fungi and roots through niche complementarity (also see Table 1); (2) if we can convincingly relate soil structure to traits of plant and fungal communities, this will allow predicting which ecosystems are under most risk of deterioration and also guide towards measures to counter this process.
+Final Expanded Species: 'of fungi' from 730-731
+Looking for Past References
+	Comparing 'of fungi' and 'microbes'
+	Comparing 'of fungi' and 'mediated'
+	Comparing 'of fungi' and '). Plant'
+	Comparing 'of fungi' and 'Therefore'
+	Comparing 'of fungi' and 'root'
+	Comparing 'of fungi' and 'progress'
+	Comparing 'of fungi' and ','
+	Comparing 'of fungi' and 'management and'
+	Comparing 'of fungi' and 'the'
+	Comparing 'of fungi' and 'of state variables'
+	'of fungi' == 'of state variables'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['complementarity', 'measures', 'stimulated', 'deterioration']
+Change (Causative) Verbs in L-Sentence: ['stimulated']
+Change (Causative) Verbs in R-Sentence: ['complementarity', 'measures', 'deterioration']
+Species in L-Sentence: ['fueled']
+Species in R-Sentence: []
+Added 20 Points for Species, Now 160
+
+Loop
+Sentence of Species: Another challenging aspect of linking single trait values to strains/species is trait variability (e.g. Cordlandwehr et al., 2013), which can be caused either by genetic variability at the species level or by phenotypic plasticity within the same genotype.
+Species: 'strains/' from 1834-1835
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Another challenging aspect of linking single trait values to strains/species is trait variability (e.g. Cordlandwehr et al., 2013), which can be caused either by genetic variability at the species level or by phenotypic plasticity within the same genotype.
+Final Expanded Species: 'strains/' from 1834-1835
+Looking for Past References
+	Comparing 'strains/' and 'microbes'
+	Comparing 'strains/' and 'mediated'
+	Comparing 'strains/' and '). Plant'
+	Comparing 'strains/' and 'Therefore'
+	Comparing 'strains/' and 'root'
+	Comparing 'strains/' and 'progress'
+	Comparing 'strains/' and ','
+	Comparing 'strains/' and 'management and'
+	Comparing 'strains/' and 'the'
+	Comparing 'strains/' and 'of state variables'
+	Comparing 'strains/' and '?'
+	Comparing 'strains/' and 'enhance'
+	Comparing 'strains/' and 'aggregation'
+	Comparing 'strains/' and 'component'
+	Comparing 'strains/' and 'macroaggregates'
+	Comparing 'strains/' and 'fueled'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['variability', 'caused', 'variability']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['variability', 'caused', 'variability']
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: These could be complemented by observational approaches, consisting of measuring community-average root traits in the field, which are linked to soil aggregation (here it would not be possible to distinguish formation and stabilization).
+Species: '-' from 2189-2189
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These could be complemented by observational approaches, consisting of measuring community-average root traits in the field, which are linked to soil aggregation (here it would not be possible to distinguish formation and stabilization).
+Final Expanded Species: '-' from 2189-2189
+Looking for Past References
+	Comparing '-' and 'microbes'
+	Comparing '-' and 'mediated'
+	Comparing '-' and '). Plant'
+	Comparing '-' and 'Therefore'
+	Comparing '-' and 'root'
+	Comparing '-' and 'progress'
+	Comparing '-' and ','
+	Comparing '-' and 'management and'
+	Comparing '-' and 'the'
+	Comparing '-' and 'of state variables'
+	Comparing '-' and '?'
+	Comparing '-' and 'enhance'
+	Comparing '-' and 'aggregation'
+	Comparing '-' and 'component'
+	Comparing '-' and 'macroaggregates'
+	Comparing '-' and 'fueled'
+	Comparing '-' and 'strains/'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consisting', 'measuring', 'complemented', 'stabilization']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'measuring', 'complemented']
+Change (Causative) Verbs in R-Sentence: ['stabilization']
+Species in L-Sentence: []
+Species in R-Sentence: ['traits', 'field', 'root']
+Added 10 Points for Species, Now 170
+
+Loop
+Sentence of Species: These could be complemented by observational approaches, consisting of measuring community-average root traits in the field, which are linked to soil aggregation (here it would not be possible to distinguish formation and stabilization).
+Species: 'traits' from 2192-2192
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: These could be complemented by observational approaches, consisting of measuring community-average root traits in the field, which are linked to soil aggregation (here it would not be possible to distinguish formation and stabilization).
+Final Expanded Species: 'traits' from 2192-2192
+Looking for Past References
+	Comparing 'traits' and 'microbes'
+	Comparing 'traits' and 'mediated'
+	Comparing 'traits' and '). Plant'
+	Comparing 'traits' and 'Therefore'
+	Comparing 'traits' and 'root'
+	Comparing 'traits' and 'progress'
+	Comparing 'traits' and ','
+	Comparing 'traits' and 'management and'
+	Comparing 'traits' and 'the'
+	Comparing 'traits' and 'of state variables'
+	Comparing 'traits' and '?'
+	Comparing 'traits' and 'enhance'
+	Comparing 'traits' and 'aggregation'
+	Comparing 'traits' and 'component'
+	Comparing 'traits' and 'macroaggregates'
+	Comparing 'traits' and 'fueled'
+	Comparing 'traits' and 'strains/'
+	Comparing 'traits' and '-'
+Past Visits: 0
+Change (Causative) Verbs in Sentence: ['consisting', 'measuring', 'complemented', 'stabilization']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'measuring', 'complemented']
+Change (Causative) Verbs in R-Sentence: ['stabilization']
+Species in L-Sentence: ['-', 'root']
+Species in R-Sentence: ['field']
+Added 10 Points for Species, Now 180
+
+Loop
+Sentence of Species: Using traits can increase our fundamental understanding of the intricate relationship between plants, symbiotic fungi, and their immediate environment which is the soil aggregate.
+Species: 'and their' from 2253-2254
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 1 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Using traits can increase our fundamental understanding of the intricate relationship between plants, symbiotic fungi, and their immediate environment which is the soil aggregate.
+Final Expanded Species: 'and their' from 2253-2254
+Looking for Past References
+	Comparing 'and their' and 'microbes'
+	Comparing 'and their' and 'mediated'
+	Comparing 'and their' and '). Plant'
+	Comparing 'and their' and 'Therefore'
+	Comparing 'and their' and 'root'
+	Comparing 'and their' and 'progress'
+	Comparing 'and their' and ','
+	Comparing 'and their' and 'management and'
+	'and their' == 'management and'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['understanding', 'increase']
+Change (Causative) Verbs in L-Sentence: ['understanding', 'increase']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: []
+Species in R-Sentence: []
+
+Loop
+Sentence of Species: However, knowledge of root and mycorrhizal fungal traits could also have great applied significance.
+Species: '.' from 2278-2278
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 2 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: However, knowledge of root and mycorrhizal fungal traits could also have great applied significance.
+Final Expanded Species: '.' from 2278-2278
+Looking for Past References
+	Comparing '.' and 'microbes'
+	Comparing '.' and 'mediated'
+	Comparing '.' and '). Plant'
+	'.' == '). Plant'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: 'and' from 134-134
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 1 times.
+		'). Plant' from 188-190 visited 3 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: 'and' from 134-134
+Looking for Past References
+	Comparing 'and' and 'microbes'
+	Comparing 'and' and 'mediated'
+	'and' == 'mediated'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: 'multiple' from 135-135
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 2 times.
+		'). Plant' from 188-190 visited 3 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: 'multiple' from 135-135
+Looking for Past References
+	Comparing 'multiple' and 'microbes'
+	Comparing 'multiple' and 'mediated'
+	'multiple' == 'mediated'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: 'biota' from 136-136
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 3 times.
+		'). Plant' from 188-190 visited 3 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: 'biota' from 136-136
+Looking for Past References
+	Comparing 'biota' and 'microbes'
+	Comparing 'biota' and 'mediated'
+	'biota' == 'mediated'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: 'groups' from 137-137
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 4 times.
+		'). Plant' from 188-190 visited 3 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: 'groups' from 137-137
+Looking for Past References
+	Comparing 'groups' and 'microbes'
+	Comparing 'groups' and 'mediated'
+	'groups' == 'mediated'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Species: 'their' from 139-139
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 5 times.
+		'). Plant' from 188-190 visited 3 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: The aggregation of soil is a complex process, regulated by a range of abiotic factors (e.g. texture) and mediated by plants and multiple biota groups and their interactions; in spite of this complexity, plant roots and their mycorrhizal symbionts are consistently found to be a crucial force in driving soil aggregation (Six et al., 2004; Rillig & Mummey, 2006; Leifheit et al., 2014).
+Final Expanded Species: 'their' from 139-139
+Looking for Past References
+	Comparing 'their' and 'microbes'
+	Comparing 'their' and 'mediated'
+	'their' == 'mediated'
+		Number of Past Visits: 5
+Past Visits: 5
+Change (Causative) Verbs in Sentence: []
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: []
+
+Loop
+Sentence of Species: Plant and mycorrhizal fungal species, respectively, differ in their contribution to soil aggregation (Reid & Goss, 1981; Angers & Caron, 1998; Eviner & Chapin, 2002; Rillig et al., 2002; Piotrowski et al., 2004; Six et al., 2004; Duchicela et al., 2012; Graf & Frei, 2013; Pérès et al., 2013), but from previous studies it has not yet become clear what specific root (and mycorrrhizal) traits contribute to this effect.
+Species: 'Plant' from 186-186
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 3 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Plant and mycorrhizal fungal species, respectively, differ in their contribution to soil aggregation (Reid & Goss, 1981; Angers & Caron, 1998; Eviner & Chapin, 2002; Rillig et al., 2002; Piotrowski et al., 2004; Six et al., 2004; Duchicela et al., 2012; Graf & Frei, 2013; Pérès et al., 2013), but from previous studies it has not yet become clear what specific root (and mycorrrhizal) traits contribute to this effect.
+Final Expanded Species: 'Plant' from 186-186
+Looking for Past References
+	Comparing 'Plant' and 'microbes'
+	Comparing 'Plant' and 'mediated'
+	Comparing 'Plant' and '). Plant'
+	'Plant' == '). Plant'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['differ']
+Species in L-Sentence: []
+Species in R-Sentence: ['respectively', '2014', ')', '.', 'Plant']
+Added 40 Points for Species, Now 220
+
+Loop
+Sentence of Species: Plant and mycorrhizal fungal species, respectively, differ in their contribution to soil aggregation (Reid & Goss, 1981; Angers & Caron, 1998; Eviner & Chapin, 2002; Rillig et al., 2002; Piotrowski et al., 2004; Six et al., 2004; Duchicela et al., 2012; Graf & Frei, 2013; Pérès et al., 2013), but from previous studies it has not yet become clear what specific root (and mycorrrhizal) traits contribute to this effect.
+Species: 'and' from 187-187
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 4 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Plant and mycorrhizal fungal species, respectively, differ in their contribution to soil aggregation (Reid & Goss, 1981; Angers & Caron, 1998; Eviner & Chapin, 2002; Rillig et al., 2002; Piotrowski et al., 2004; Six et al., 2004; Duchicela et al., 2012; Graf & Frei, 2013; Pérès et al., 2013), but from previous studies it has not yet become clear what specific root (and mycorrrhizal) traits contribute to this effect.
+Final Expanded Species: 'and' from 187-187
+Looking for Past References
+	Comparing 'and' and 'microbes'
+	Comparing 'and' and 'mediated'
+	Comparing 'and' and '). Plant'
+	'and' == '). Plant'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['differ']
+Species in L-Sentence: [',']
+Species in R-Sentence: ['respectively', ')', '.', 'Plant']
+Added 50 Points for Species, Now 270
+
+Loop
+Sentence of Species: Plant and mycorrhizal fungal species, respectively, differ in their contribution to soil aggregation (Reid & Goss, 1981; Angers & Caron, 1998; Eviner & Chapin, 2002; Rillig et al., 2002; Piotrowski et al., 2004; Six et al., 2004; Duchicela et al., 2012; Graf & Frei, 2013; Pérès et al., 2013), but from previous studies it has not yet become clear what specific root (and mycorrrhizal) traits contribute to this effect.
+Species: 'their' from 196-196
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 5 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Plant and mycorrhizal fungal species, respectively, differ in their contribution to soil aggregation (Reid & Goss, 1981; Angers & Caron, 1998; Eviner & Chapin, 2002; Rillig et al., 2002; Piotrowski et al., 2004; Six et al., 2004; Duchicela et al., 2012; Graf & Frei, 2013; Pérès et al., 2013), but from previous studies it has not yet become clear what specific root (and mycorrrhizal) traits contribute to this effect.
+Final Expanded Species: 'their' from 196-196
+Looking for Past References
+	Comparing 'their' and 'microbes'
+	Comparing 'their' and 'mediated'
+	Comparing 'their' and '). Plant'
+	'their' == '). Plant'
+		Number of Past Visits: 5
+Past Visits: 5
+Change (Causative) Verbs in Sentence: ['differ']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['differ']
+Species in L-Sentence: [',', '2014', ')', '.', 'Plant']
+Species in R-Sentence: []
+Added 60 Points for Species, Now 330
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'a' from 582-582
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 1 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'a' from 582-582
+Looking for Past References
+	Comparing 'a' and 'microbes'
+	Comparing 'a' and 'mediated'
+	Comparing 'a' and '). Plant'
+	Comparing 'a' and 'Therefore'
+	Comparing 'a' and 'root'
+	Comparing 'a' and 'progress'
+	Comparing 'a' and ','
+	Comparing 'a' and 'management and'
+	Comparing 'a' and 'the'
+	Comparing 'a' and 'of state variables'
+	Comparing 'a' and '?'
+	Comparing 'a' and 'enhance'
+	'a' == 'enhance'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Species in L-Sentence: []
+Species in R-Sentence: ['to', 'the', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 20 Points for Species, Now 350
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'trait-based' from 583-583
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 2 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'trait-based' from 583-583
+Looking for Past References
+	Comparing 'trait-based' and 'microbes'
+	Comparing 'trait-based' and 'mediated'
+	Comparing 'trait-based' and '). Plant'
+	Comparing 'trait-based' and 'Therefore'
+	Comparing 'trait-based' and 'root'
+	Comparing 'trait-based' and 'progress'
+	Comparing 'trait-based' and ','
+	Comparing 'trait-based' and 'management and'
+	Comparing 'trait-based' and 'the'
+	Comparing 'trait-based' and 'of state variables'
+	Comparing 'trait-based' and '?'
+	Comparing 'trait-based' and 'enhance'
+	'trait-based' == 'enhance'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['specifically']
+Species in R-Sentence: ['to', 'the', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 30 Points for Species, Now 380
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'approach' from 584-584
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 3 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'approach' from 584-584
+Looking for Past References
+	Comparing 'approach' and 'microbes'
+	Comparing 'approach' and 'mediated'
+	Comparing 'approach' and '). Plant'
+	Comparing 'approach' and 'Therefore'
+	Comparing 'approach' and 'root'
+	Comparing 'approach' and 'progress'
+	Comparing 'approach' and ','
+	Comparing 'approach' and 'management and'
+	Comparing 'approach' and 'the'
+	Comparing 'approach' and 'of state variables'
+	Comparing 'approach' and '?'
+	Comparing 'approach' and 'enhance'
+	'approach' == 'enhance'
+		Number of Past Visits: 3
+Past Visits: 3
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized']
+Species in R-Sentence: ['to', 'the', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 40 Points for Species, Now 420
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'applied' from 585-585
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 4 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'applied' from 585-585
+Looking for Past References
+	Comparing 'applied' and 'microbes'
+	Comparing 'applied' and 'mediated'
+	Comparing 'applied' and '). Plant'
+	Comparing 'applied' and 'Therefore'
+	Comparing 'applied' and 'root'
+	Comparing 'applied' and 'progress'
+	Comparing 'applied' and ','
+	Comparing 'applied' and 'management and'
+	Comparing 'applied' and 'the'
+	Comparing 'applied' and 'of state variables'
+	Comparing 'applied' and '?'
+	Comparing 'applied' and 'enhance'
+	'applied' == 'enhance'
+		Number of Past Visits: 4
+Past Visits: 4
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: []
+Change (Causative) Verbs in R-Sentence: ['understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['for', 'specifically', 'optimized']
+Species in R-Sentence: ['to', 'the', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 50 Points for Species, Now 470
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'to' from 586-586
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 5 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'to' from 586-586
+Looking for Past References
+	Comparing 'to' and 'microbes'
+	Comparing 'to' and 'mediated'
+	Comparing 'to' and '). Plant'
+	Comparing 'to' and 'Therefore'
+	Comparing 'to' and 'root'
+	Comparing 'to' and 'progress'
+	Comparing 'to' and ','
+	Comparing 'to' and 'management and'
+	Comparing 'to' and 'the'
+	Comparing 'to' and 'of state variables'
+	Comparing 'to' and '?'
+	Comparing 'to' and 'enhance'
+	'to' == 'enhance'
+		Number of Past Visits: 5
+Past Visits: 5
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['for', 'complementarity', 'specifically', 'optimized']
+Species in R-Sentence: ['to', 'the', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 60 Points for Species, Now 530
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'the' from 587-587
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 2 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 6 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'the' from 587-587
+Looking for Past References
+	Comparing 'the' and 'microbes'
+	Comparing 'the' and 'mediated'
+	Comparing 'the' and '). Plant'
+	Comparing 'the' and 'Therefore'
+	Comparing 'the' and 'root'
+	Comparing 'the' and 'progress'
+	Comparing 'the' and ','
+	Comparing 'the' and 'management and'
+	Comparing 'the' and 'the'
+	'the' == 'the'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in']
+Species in R-Sentence: ['to', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 30 Points for Species, Now 560
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'understanding' from 588-588
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 6 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'understanding' from 588-588
+Looking for Past References
+	Comparing 'understanding' and 'microbes'
+	Comparing 'understanding' and 'mediated'
+	Comparing 'understanding' and '). Plant'
+	Comparing 'understanding' and 'Therefore'
+	Comparing 'understanding' and 'root'
+	Comparing 'understanding' and 'progress'
+	Comparing 'understanding' and ','
+	Comparing 'understanding' and 'management and'
+	Comparing 'understanding' and 'the'
+	Comparing 'understanding' and 'of state variables'
+	Comparing 'understanding' and '?'
+	Comparing 'understanding' and 'enhance'
+	'understanding' == 'enhance'
+		Number of Past Visits: 6
+Past Visits: 6
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the']
+Species in R-Sentence: ['to', 'the', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 70 Points for Species, Now 630
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'of' from 589-589
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 7 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'of' from 589-589
+Looking for Past References
+	Comparing 'of' and 'microbes'
+	Comparing 'of' and 'mediated'
+	Comparing 'of' and '). Plant'
+	Comparing 'of' and 'Therefore'
+	Comparing 'of' and 'root'
+	Comparing 'of' and 'progress'
+	Comparing 'of' and ','
+	Comparing 'of' and 'management and'
+	Comparing 'of' and 'the'
+	Comparing 'of' and 'of state variables'
+	Comparing 'of' and '?'
+	Comparing 'of' and 'enhance'
+	'of' == 'enhance'
+		Number of Past Visits: 7
+Past Visits: 7
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'enhance', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability']
+Species in R-Sentence: ['to', 'the', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 80 Points for Species, Now 710
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'and' from 591-591
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 8 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'and' from 591-591
+Looking for Past References
+	Comparing 'and' and 'microbes'
+	Comparing 'and' and 'mediated'
+	Comparing 'and' and '). Plant'
+	Comparing 'and' and 'Therefore'
+	Comparing 'and' and 'root'
+	Comparing 'and' and 'progress'
+	Comparing 'and' and ','
+	Comparing 'and' and 'management and'
+	Comparing 'and' and 'the'
+	Comparing 'and' and 'of state variables'
+	Comparing 'and' and '?'
+	Comparing 'and' and 'enhance'
+	'and' == 'enhance'
+		Number of Past Visits: 8
+Past Visits: 8
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance']
+Species in R-Sentence: ['to', 'the', 'aggregation', '?', 'In', 'addition', 'to', 'see']
+Added 90 Points for Species, Now 800
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'contributions' from 593-593
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 9 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'contributions' from 593-593
+Looking for Past References
+	Comparing 'contributions' and 'microbes'
+	Comparing 'contributions' and 'mediated'
+	Comparing 'contributions' and '). Plant'
+	Comparing 'contributions' and 'Therefore'
+	Comparing 'contributions' and 'root'
+	Comparing 'contributions' and 'progress'
+	Comparing 'contributions' and ','
+	Comparing 'contributions' and 'management and'
+	Comparing 'contributions' and 'the'
+	Comparing 'contributions' and 'of state variables'
+	Comparing 'contributions' and '?'
+	Comparing 'contributions' and 'enhance'
+	'contributions' == 'enhance'
+		Number of Past Visits: 9
+Past Visits: 9
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation']
+Species in R-Sentence: ['to', 'the', 'In', 'addition', 'to', 'see']
+Added 100 Points for Species, Now 900
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'to' from 594-594
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 10 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'to' from 594-594
+Looking for Past References
+	Comparing 'to' and 'microbes'
+	Comparing 'to' and 'mediated'
+	Comparing 'to' and '). Plant'
+	Comparing 'to' and 'Therefore'
+	Comparing 'to' and 'root'
+	Comparing 'to' and 'progress'
+	Comparing 'to' and ','
+	Comparing 'to' and 'management and'
+	Comparing 'to' and 'the'
+	Comparing 'to' and 'of state variables'
+	Comparing 'to' and '?'
+	Comparing 'to' and 'enhance'
+	'to' == 'enhance'
+		Number of Past Visits: 10
+Past Visits: 10
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?']
+Species in R-Sentence: ['to', 'the', 'addition', 'to', 'see']
+Added 110 Points for Species, Now 1010
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'soil' from 595-595
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 11 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'soil' from 595-595
+Looking for Past References
+	Comparing 'soil' and 'microbes'
+	Comparing 'soil' and 'mediated'
+	Comparing 'soil' and '). Plant'
+	Comparing 'soil' and 'Therefore'
+	Comparing 'soil' and 'root'
+	Comparing 'soil' and 'progress'
+	Comparing 'soil' and ','
+	Comparing 'soil' and 'management and'
+	Comparing 'soil' and 'the'
+	Comparing 'soil' and 'of state variables'
+	Comparing 'soil' and '?'
+	Comparing 'soil' and 'enhance'
+	'soil' == 'enhance'
+		Number of Past Visits: 11
+Past Visits: 11
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In']
+Species in R-Sentence: ['see', 'to', 'the', 'to']
+Added 120 Points for Species, Now 1130
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'aggregation' from 596-596
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 12 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'aggregation' from 596-596
+Looking for Past References
+	Comparing 'aggregation' and 'microbes'
+	Comparing 'aggregation' and 'mediated'
+	Comparing 'aggregation' and '). Plant'
+	Comparing 'aggregation' and 'Therefore'
+	Comparing 'aggregation' and 'root'
+	Comparing 'aggregation' and 'progress'
+	Comparing 'aggregation' and ','
+	Comparing 'aggregation' and 'management and'
+	Comparing 'aggregation' and 'the'
+	Comparing 'aggregation' and 'of state variables'
+	Comparing 'aggregation' and '?'
+	Comparing 'aggregation' and 'enhance'
+	'aggregation' == 'enhance'
+		Number of Past Visits: 12
+Past Visits: 12
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition']
+Species in R-Sentence: ['see', 'to', 'the']
+Added 130 Points for Species, Now 1260
+
+Loop
+Sentence of Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Species: 'it' from 601-601
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 13 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: In addition to general advantages, we see specific benefits of a trait-based approach applied to the understanding of mycorrhizal and plant contributions to soil aggregation: (1) it will allow testing for the extent of root and mycorrhizal fungal functional complementarity with regard to soil aggregation, and thus whether soil aggregation is another example of an ecosystem process that positively relates to biodiversity like other more well-studied processes such as primary productivity.
+Final Expanded Species: 'it' from 601-601
+Looking for Past References
+	Comparing 'it' and 'microbes'
+	Comparing 'it' and 'mediated'
+	Comparing 'it' and '). Plant'
+	Comparing 'it' and 'Therefore'
+	Comparing 'it' and 'root'
+	Comparing 'it' and 'progress'
+	Comparing 'it' and ','
+	Comparing 'it' and 'management and'
+	Comparing 'it' and 'the'
+	Comparing 'it' and 'of state variables'
+	Comparing 'it' and '?'
+	Comparing 'it' and 'enhance'
+	'it' == 'enhance'
+		Number of Past Visits: 13
+Past Visits: 13
+Change (Causative) Verbs in Sentence: ['complementarity', 'understanding', 'enhance', 'complementarity']
+Change (Causative) Verbs in L-Sentence: ['complementarity', 'enhance']
+Change (Causative) Verbs in R-Sentence: ['understanding', 'complementarity']
+Species in L-Sentence: ['specifically', 'optimized', 'for', 'complementarity', 'in', 'the', 'ability', 'to', 'enhance', 'soil', 'aggregation', '?', 'In', 'addition', 'to']
+Species in R-Sentence: ['to', 'the']
+Added 140 Points for Species, Now 1400
+
+Loop
+Sentence of Species: Using traits can increase our fundamental understanding of the intricate relationship between plants, symbiotic fungi, and their immediate environment which is the soil aggregate.
+Species: 'symbiotic' from 2191-2191
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 14 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 1 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Using traits can increase our fundamental understanding of the intricate relationship between plants, symbiotic fungi, and their immediate environment which is the soil aggregate.
+Final Expanded Species: 'symbiotic' from 2191-2191
+Looking for Past References
+	Comparing 'symbiotic' and 'microbes'
+	Comparing 'symbiotic' and 'mediated'
+	Comparing 'symbiotic' and '). Plant'
+	Comparing 'symbiotic' and 'Therefore'
+	Comparing 'symbiotic' and 'root'
+	Comparing 'symbiotic' and 'progress'
+	Comparing 'symbiotic' and ','
+	Comparing 'symbiotic' and 'management and'
+	Comparing 'symbiotic' and 'the'
+	Comparing 'symbiotic' and 'of state variables'
+	Comparing 'symbiotic' and '?'
+	Comparing 'symbiotic' and 'enhance'
+	Comparing 'symbiotic' and 'aggregation'
+	Comparing 'symbiotic' and 'component'
+	Comparing 'symbiotic' and 'macroaggregates'
+	Comparing 'symbiotic' and 'fueled'
+	Comparing 'symbiotic' and 'strains/'
+	Comparing 'symbiotic' and '-'
+	'symbiotic' == '-'
+		Number of Past Visits: 1
+Past Visits: 1
+Change (Causative) Verbs in Sentence: ['consisting', 'measuring', 'complemented']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'measuring', 'complemented']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['-']
+Species in R-Sentence: ['traits', 'field']
+Added 20 Points for Species, Now 1420
+
+Loop
+Sentence of Species: Using traits can increase our fundamental understanding of the intricate relationship between plants, symbiotic fungi, and their immediate environment which is the soil aggregate.
+Species: 'their' from 2195-2195
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 14 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 2 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+Expanding Species
+Sentence of (Final) Expanded Species: Using traits can increase our fundamental understanding of the intricate relationship between plants, symbiotic fungi, and their immediate environment which is the soil aggregate.
+Final Expanded Species: 'their' from 2195-2195
+Looking for Past References
+	Comparing 'their' and 'microbes'
+	Comparing 'their' and 'mediated'
+	Comparing 'their' and '). Plant'
+	Comparing 'their' and 'Therefore'
+	Comparing 'their' and 'root'
+	Comparing 'their' and 'progress'
+	Comparing 'their' and ','
+	Comparing 'their' and 'management and'
+	Comparing 'their' and 'the'
+	Comparing 'their' and 'of state variables'
+	Comparing 'their' and '?'
+	Comparing 'their' and 'enhance'
+	Comparing 'their' and 'aggregation'
+	Comparing 'their' and 'component'
+	Comparing 'their' and 'macroaggregates'
+	Comparing 'their' and 'fueled'
+	Comparing 'their' and 'strains/'
+	Comparing 'their' and '-'
+	'their' == '-'
+		Number of Past Visits: 2
+Past Visits: 2
+Change (Causative) Verbs in Sentence: ['consisting', 'measuring', 'complemented']
+Change (Causative) Verbs in L-Sentence: ['consisting', 'measuring', 'complemented']
+Change (Causative) Verbs in R-Sentence: []
+Species in L-Sentence: ['traits', '-', 'root']
+Species in R-Sentence: []
+Added 30 Points for Species, Now 1450
+Points: 1450
+Adjusted Points (56 Sentences): 25.892857142857142
+	Visited Species:
+		'microbes' from 41-41 visited 1 times.
+		'mediated' from 133-133 visited 6 times.
+		'). Plant' from 188-190 visited 6 times.
+		'Therefore' from 325-325 visited 1 times.
+		'root' from 368-368 visited 1 times.
+		'progress' from 451-451 visited 1 times.
+		',' from 487-487 visited 1 times.
+		'management and' from 489-490 visited 2 times.
+		'the' from 520-520 visited 3 times.
+		'of state variables' from 522-524 visited 2 times.
+		'?' from 533-533 visited 1 times.
+		'enhance' from 590-590 visited 14 times.
+		'aggregation' from 592-592 visited 1 times.
+		'component' from 689-689 visited 1 times.
+		'macroaggregates' from 702-702 visited 1 times.
+		'fueled' from 728-728 visited 1 times.
+		'strains/' from 1834-1835 visited 1 times.
+		'-' from 2189-2189 visited 3 times.
+		'traits' from 2192-2192 visited 1 times.
+--
+25.892857142857142 Points
