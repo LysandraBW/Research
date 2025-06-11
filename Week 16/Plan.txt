@@ -1,0 +1,65 @@
+09:15 PM START
+1. Create Datasets
+    1. The dataset will contain the "Title", "Abstract", "DOI", and "Score" of the paper. I'm not going to use the full text because OpenAlex does not always provide the full text, but it more often provides the abstract.
+    It would probably be more fair to score each paper against something more comparable. Also BingKan was able to determine whether the papers were relevant or not from the abstract, so it should be fine. The score
+    is used to rank the papers. The meaning of the score depends on the method used. For example, when cosine similarity is being used, the score is a value from 0.0 to 1.0 where 1.0 indicates that the paper is the
+    same as all the reference papers (not possible as there are multiple, unique reference papers).
+    2. Versions:
+        a. Level A + No Filter
+        b. Level B + No Filter
+        c. Level C + No Filter
+        d. Level D + No Filter
+        e. Level B + Filter
+        f. Level C + Filter
+        g. Level D + Filter
+        h. Examples
+2. Create Methods
+    1. These methods should take in a dataset with the aforementioned properties. It will add (or set) the "Score" column and sort the rows by said column.
+    This should make it easier to (1) compare which method is more accurate; and (2) see where each method succeeds and fails.
+    2. Methods:
+        1. Point System
+        2. Cosine Similarity
+        3. K-Nearest Neighbors
+        4. Model
+
+I am going to create the datasets now.
+I couldn't create Level B + No Filter because I kept running out of memory. I tried to use HiPerGator, but it might be down right now. I'll try again tomorrow.
+
+Tomorrow, I will add the methods.
+12:15 AM END
+
+07:17 AM
+08:40 AM
+
+10:20 AM
+
+11:17 AM
+I've finished the 2nd and 3rd files, the 1st is still running, it will probably take forever. I'm going  to think some more about #4.
+Looking at some other work, this "https://huggingface.co/spaces/ujaganna/Literature_Review/blob/main/app.py" looked interesting because of its use of clustering.
+Maybe this could be used for the motifs? Later on? I don't know, but it was interessting.
+
+06:37 PM
+Fixing KNN
+
+7:13 PM
+It is fixed, I ma trying to compare the outputs, but I don't have the same of set papers. Therefore, I'll get those same set of papers that I had initially given
+and then I'll run the algorithms on those. Also, it simply takes too long for the programs to run on thousands of papers, so I'm thinking maybe I create subsets of the dataset
+randomly picked and go with that? Maybe select like 1000 instead of 10k, and if it works, we could reasonably assume it works on the rest?
+I'll call these datasets like DatasetA-1 or something... but I am taking a break now 
+
+When that's done ^ 
+oh I also need to check if there's overlap
+
+When that's done I need to figure out the model one, the last method...
+
+7:20 PM
+doing the thing
+
+757 PM ITS JUST RUNNING NOW SO IM WAITING
+
+945 PM still running
+6000s * 1min/60s = 100m it has been running for at least an hour and 40 minutes
+more like 2 hours 
+
+i am going to log my hours and let this run until tomorrow morning
+when it's presumably done, i'll extract the papers that were scored so i can compare each method

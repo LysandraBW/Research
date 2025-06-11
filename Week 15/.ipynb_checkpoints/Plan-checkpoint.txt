@@ -1,0 +1,115 @@
+08:16 AM
+Reviewing Feedback
+-Trait Variation Needed
+-Indirect Modification Needed
+-Improved Papers
+-Trait Mediated or Not
+-Remove Datasets + Theory + Reviews
+
+08:25 AM
+Moving Location
+
+08:28 AM
+I need to see what text the algorithm was using for each paper, so I will do that now.
+Then, I will look at any patterns that I could use to filter the irrelevant papers.
+However, I need a better way to determine whether the paper is about trait variation or indirect modification.
+Perhaps I could use a model, but there could be an easier way (a more static way) to go about this.
+But, first I need to see that text. I also need to see whether WoS has given me an API key so I (presumably)) have better
+access to papers.
+	1. Get Text
+		a. Overall, I think that we should have the (1) title; (2) DOI; (3) text; (4) points; (5) index; and (6) any further information with regards to the evaluation of the paper's points.
+		b. For now, I will just store the first five points.
+		c. Should also review the texts that have been filtered out.
+		d. As of 8:59 AM, I am running the algorithm again so that I can see the text that was being used in the algorithm.
+		e. I will be using the abstracts, for now, to see (1) any similarities; and (2) indicators of a dataset or theory or review paper.
+			1. EXPLICIT MENTION OF SPECIES
+			There are no explicit species (the word "species" is there, but it's not specific). TaxoNERD should have worked as there is a minimum number of species
+			that must have been mentioned in order for something to count. However, it could have incorrectly identified species and/or I could have a bug in my code.
+			I will need to wait for this program to stop running before I can look at what's going on there.
+				a. There is an article that was given a score of 0 for the same reason (it's theory). However, it does have specific species... meaning that the above approach
+				wouldn't work. That doesn't mean we have to get rid of it, it just means that there may need to be something else. Looking at it, I am not sure what I could use to
+				separate it from those that do matter.
+			2. TOPIC RELEVANCE
+			Before I used the zero-shot classifier, there were a bunch of papers that were totally off-topic. Now, there's less. There is a paper about "toxic nanoparticles" that
+			shouldn't have passed filtering, but it did. I could increase the thresholds, but I'd need to check the thresholds of the local documents again to be sure. When I do, Iq will
+			list them here.
+				a. Thresholds:
+					1.
+					2.
+					3.
+					4.
+			3. DATASET
+			There are datasets included, I should remove these. I need to see the text that's reported in order to figure out what to do, I am still waiting.
+	2. Think
+		a. I feel like I could try to use a model to do a better job of understanding the text. There could be like stages.
+			1. STAGE 1:
+			We remove papers that do not have text and/or are irrelevant (as determined by the pre-trained zero-shot classifier).
+			TaxoNERD should also be used to filter out papers that do not mention three or more unique species.
+			2. STAGE 2:
+			Use a model to determine from a score of 0-3 whether a paper is relevant. I could use the scores that BingKan and Zack provided as a baseline (perhaps take the average).
+			I think that this may be more helpful as it's difficult to handle all the possible cases that you could encounter -- it may also pick up on what the "threshold" is.
+	3. Check WoS
+		a. I now have an API key. I will try and use it to see if I can get papers of higher quality.
+
+09:20 AM
+Need to drop off parent.
+
+10:13 AM
+I think we should use transfer learning with the RoBERTa model. I just need to learn how (via HuggingFace).
+I also need to ask what would be considered as trait variation. I might not need another model -- maybe I could just look for more keywords. It's just that keywords
+can be very simple which is not good as language is not simple. Like, a text may mention "dog" and you'd think that the text is about dogs, but maybe the "dog" is a human friend.
+I am having trouble determining what would be a trait variation and the indirect action (TMII).
+
+I am not sure how to go about the indirect part. I don't want to assume that each and every paper will state "indirect" which is why I do not really want to just look for keywords.
+Maybe I could add points... if that's still a method I use. However a paper with a score of 1 also mentioned indirect.
+
+I think that a model is the next best step. The filtering phase can be improved. But it would be better to use a model. I do not have the knowledge to handle each cases or know whether
+something would work or not.
+
+The idea is to pass the text through the RoBERTa tokenizer. You'd get a vector of integers -- I think. These would be ran through the *model* to churn out a floating point number between 0.0 and 3.0.
+However, the models are not trained to do this. Text classification comes close but it is not the same as what I'd like to do. Maybe I could tweak the sentiment analysis to be add "Relevant"?
+I do not know.
+
+10:59 AM
+I am going to take a break. When I am done, I am going to do an example to see how I can apply its techniques to my situation.
+
+11:24 AM
+I need to wait for this program to finish, I cannot work until it is finished. So, I am going to work on differential equations until then.
+
+11:41 AM - STOP
+
+1:10 PM
+2:15 PM 
+
+09:14 PM
+I am going to fix the keywords.
+Then I am going to print the output (after adding the print statements for the steps).
+
+11:43 PM
+I cannot fight sleep. I will continue tomorrow. I've fixed the keywords. Now, I need to print the output. After that, I'd like to try WoS and possibly fine-tune a model.
+
+07:22 AM
+09:39 AM
+
+10:50 AM
+WOS doesn't seem like it'd work. The Starter API doesn't have a link to the PDF or the abstract provided. The Researcher API might have that, but I'd have to pay for that.
+I might be doing something wrong so I should probably ask someone who has used it before. It has the DOI?
+https://developer.clarivate.com/apis/wos-starter
+
+I am going to try the whole model thing now.
+Maybe ONLY use the abstract instead of some abstract, some full text; this may help with standardizing the scores, I think. But this is after the model thing.
+
+1:56 PM
+Working on cosine-similarity by following a Kaggle notebook, need to drive somewhere.
+
+2:04 PM
+Still not driving, picked up back, going to follow along with KNN next
+
+2:14 PM
+2:19 PM
+
+06:25 PM
+
+07:00 PM
+So I've tried cosine similarity and it looks ok? It's still ranking some seemingly unrelated papers pretty high up... or maybe it's not. I'd like to look at the quartiles for this to see. Anyway, I'd like to set up a pipeline. But next, I'd like to do the model. But I need to take a quiz now deuces
+I want to be able to substitute the actual filtering method, whether that be the points algorithm, the cosine similarity, or like a model.
