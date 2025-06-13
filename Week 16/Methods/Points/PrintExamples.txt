@@ -5,6 +5,8 @@ Load Cluster Map:
 Cluster:
 [['larger, more complex communities', 'their', 'these complex and diverse communities']]
 
+Species Spans
+(species, species)
 Cluster Map:
 larger: [more, complex, communities, their, these, complex, and, diverse, communities]
 more: [larger, complex, communities, their, these, complex, and, diverse, communities]
@@ -41,36 +43,6 @@ Santiy Check
 SpaCy Sentence: Using food web models that account for juvenile and adult individuals of species, I show that commonly observed differences between juveniles and adults in foraging capacity and predation risk result in larger, more complex communities than predicted by models without stage structure
 TaxoNerd Sentence: Using food web models that account for juvenile and adult individuals of species, I show that commonly observed differences between juveniles and adults in foraging capacity and predation risk result in larger, more complex communities than predicted by models without stage structure.
 
-Looking for Indices:
-Tokens: Using food web models that account for juvenile and adult individuals of species, I show that commonly observed differences between juveniles and adults in foraging capacity and predation risk result in larger, more complex communities than predicted by models without stage structure
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['differences', 'result']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['differences', 'result']
@@ -103,33 +75,6 @@ Santiy Check
 SpaCy Sentence: Based on their species interaction networks these complex and diverse communities would be expected to be unstable, but these destabilizing effects of species interactions are overruled by stabilizing changes in juvenile–adult stage structure
 TaxoNerd Sentence: Based on their species interaction networks these complex and diverse communities would be expected to be unstable, but these destabilizing effects of species interactions are overruled by stabilizing changes in juvenile–adult stage structure.
 
-Looking for Indices:
-Tokens: Based on their species interaction networks these complex and diverse communities would be expected to be unstable, but these destabilizing effects of species interactions are overruled by stabilizing changes in juvenile–adult stage structure
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['stabilizing', 'changes']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['stabilizing', 'changes']
@@ -158,6 +103,8 @@ Load Cluster Map:
 Cluster:
 [['Current theory on trophic interactions in food webs', 'This theory'], ['a single functional unit such as a guild or trophic level', 'that unit'], ['implies', 'this assumption'], ['Grasshopper density', 'it'], ['These direct effects', 'themselves']]
 
+Species Spans
+(species, species, species, spider, grasshopper, herbs, spiderspecies, grasshopper prey, Grasshoppers, species, species, species, spider, spider, plants, spider, plants, predator species)
 Cluster Map:
 Current: [theory, on, trophic, interactions, in, food, webs, This, theory]
 theory: [Current, on, trophic, interactions, in, food, webs, This, theory]
@@ -233,31 +180,6 @@ Santiy Check
 SpaCy Sentence: Current theory on trophic interactions in food webs assumes thatecologically similar species can be treated collectively as a single functional unit such as a guild or trophic level
 TaxoNerd Sentence: Current theory on trophic interactions in food webs assumes thatecologically similar species can be treated collectively as a single functional unit such as a guild or trophic level.
 
-Looking for Indices:
-Tokens: Current theory on trophic interactions in food webs assumes thatecologically similar species can be treated collectively as a single functional unit such as a guild or trophic level
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -288,20 +210,6 @@ Santiy Check
 SpaCy Sentence: This theory implies that all species within that unit transmit identical direct and indirect effects throughout the community
 TaxoNerd Sentence: This theory implies that all species within that unit transmit identical direct and indirect effects throughout the community.
 
-Looking for Indices:
-Tokens: This theory implies that all species within that unit transmit identical direct and indirect effects throughout the community
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -332,38 +240,6 @@ Santiy Check
 SpaCy Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
 TaxoNerd Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
 
-Looking for Indices:
-Tokens: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['compare', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['compare', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -392,38 +268,6 @@ Santiy Check
 SpaCy Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
 TaxoNerd Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
 
-Looking for Indices:
-Tokens: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['compare', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['compare', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -454,38 +298,6 @@ Santiy Check
 SpaCy Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
 TaxoNerd Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
 
-Looking for Indices:
-Tokens: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['compare', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['compare', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -518,38 +330,6 @@ Santiy Check
 SpaCy Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
 TaxoNerd Sentence: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs.
 
-Looking for Indices:
-Tokens: We evaluated this assumption by conducting experiments to compare the direct and indirect effects of three top-predator species, be longing to the same hunting spider guild, on the same species of grasshopper and on old field grasses and herbs
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['compare', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['compare', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -584,34 +364,6 @@ Santiy Check
 SpaCy Sentence: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy
 TaxoNerd Sentence: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy.
 
-Looking for Indices:
-Tokens: Observations under field conditions revealed that each spiderspecies exhibited different hunting behavior (i.e., sit-and-wait, sit-and-pursue, and active hunting) and occupied different locations within the vegetation canopy
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -647,14 +399,6 @@ Santiy Check
 SpaCy Sentence: These differences resulted in different direct effects on grasshopper prey
 TaxoNerd Sentence: These differences resulted in different direct effects on grasshopper prey.
 
-Looking for Indices:
-Tokens: These differences resulted in different direct effects on grasshopper prey
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['differences', 'resulted']
 Change (Causative) Verbs on L-Side of Current Species: ['differences', 'resulted']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -721,34 +465,6 @@ Santiy Check
 SpaCy Sentence: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species
 TaxoNerd Sentence: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species.
 
-Looking for Indices:
-Tokens: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['demonstrated', 'shifts']
 Change (Causative) Verbs on L-Side of Current Species: ['demonstrated', 'shifts']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -786,34 +502,6 @@ Santiy Check
 SpaCy Sentence: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species
 TaxoNerd Sentence: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species.
 
-Looking for Indices:
-Tokens: Grasshoppers demonstrated significant be havioral (diet) shifts in the presence of sit-and-wait and sit-and-pursue species but not when faced with actively hunting species
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['demonstrated', 'shifts']
 Change (Causative) Verbs on L-Side of Current Species: ['demonstrated', 'shifts']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -851,43 +539,6 @@ Santiy Check
 SpaCy Sentence: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy
 TaxoNerd Sentence: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
 
-Looking for Indices:
-Tokens: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['reduced', 'reduced']
 Change (Causative) Verbs on L-Side of Current Species: ['reduced']
 Change (Causative) Verbs on R-Side of Current Species: ['reduced']
@@ -926,43 +577,6 @@ Santiy Check
 SpaCy Sentence: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy
 TaxoNerd Sentence: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy.
 
-Looking for Indices:
-Tokens: Grasshopper density was significantly reduced byspider species that occupied lower parts of the vegetation canopy (sit-and-pursue and actively hunting species), but it was not significantly reduced by the sit-and-wait spider species that occupied the upper parts of the canopy
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['reduced', 'reduced']
 Change (Causative) Verbs on L-Side of Current Species: ['reduced', 'reduced']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1001,24 +615,6 @@ Santiy Check
 SpaCy Sentence: The sit-and-wait spider caused indirect effects on plants by changing grasshopper foraging behavior (a trait-mediated effect)
 TaxoNerd Sentence: The sit-and-wait spider caused indirect effects on plants by changing grasshopper foraging behavior (a trait-mediated effect).
 
-Looking for Indices:
-Tokens: The sit-and-wait spider caused indirect effects on plants by changing grasshopper foraging behavior (a trait-mediated effect)
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['caused', 'changing']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['caused', 'changing']
@@ -1059,24 +655,6 @@ Santiy Check
 SpaCy Sentence: The sit-and-wait spider caused indirect effects on plants by changing grasshopper foraging behavior (a trait-mediated effect)
 TaxoNerd Sentence: The sit-and-wait spider caused indirect effects on plants by changing grasshopper foraging behavior (a trait-mediated effect).
 
-Looking for Indices:
-Tokens: The sit-and-wait spider caused indirect effects on plants by changing grasshopper foraging behavior (a trait-mediated effect)
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['caused', 'changing']
 Change (Causative) Verbs on L-Side of Current Species: ['caused']
 Change (Causative) Verbs on R-Side of Current Species: ['changing']
@@ -1116,32 +694,6 @@ Santiy Check
 SpaCy Sentence: The sit-and-pursue spider caused indirect effects by reducing grasshopper density (density-mediated effects); the effects of changes in grasshopper behavior were thus not reflected in the plant trophic level
 TaxoNerd Sentence: The sit-and-pursue spider caused indirect effects by reducing grasshopper density (density-mediated effects); the effects of changes in grasshopper behavior were thus not reflected in the plant trophic level.
 
-Looking for Indices:
-Tokens: The sit-and-pursue spider caused indirect effects by reducing grasshopper density (density-mediated effects); the effects of changes in grasshopper behavior were thus not reflected in the plant trophic level
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token in Literals, Add and Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['caused', 'changes', 'reducing']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['caused', 'changes', 'reducing']
@@ -1188,15 +740,6 @@ Santiy Check
 SpaCy Sentence: The actively hunting spiders had strictly density-mediated indirect effects on plants
 TaxoNerd Sentence: The actively hunting spiders had strictly density-mediated indirect effects on plants.
 
-Looking for Indices:
-Tokens: The actively hunting spiders had strictly density-mediated indirect effects on plants
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1238,24 +781,6 @@ Santiy Check
 SpaCy Sentence: Thus classical modeling approaches that treat all predator species as a single functional unit may not adequately capture biologically relevant details that influence community dynamics
 TaxoNerd Sentence: Thus classical modeling approaches that treat all predator species as a single functional unit may not adequately capture biologically relevant details that influence community dynamics.
 
-Looking for Indices:
-Tokens: Thus classical modeling approaches that treat all predator species as a single functional unit may not adequately capture biologically relevant details that influence community dynamics
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1290,6 +815,8 @@ Load Cluster Map:
 Cluster:
 [['an ecosystem', 'its'], ['We', 'We'], ['a higher-order interaction between species (interaction modification) that is unrelated to resource consumption', 'this interaction'], ['the mode of this interaction', 'This mode'], ['the ciliate Tetrahymena thermophila (predator)', 'the ciliate']]
 
+Species Spans
+(plant, Escherichia coli, alga, Chlamydomonas reinhardtii, Tetrahymena thermophila, species, algae)
 Cluster Map:
 an: [ecosystem, its]
 ecosystem: [an, its]
@@ -1372,25 +899,6 @@ Santiy Check
 SpaCy Sentence: Studies of natural ecosystems, from plant to microbial communities, have found that more diverse communities are more resistant to invasion
 TaxoNerd Sentence: Studies of natural ecosystems, from plant to microbial communities, have found that more diverse communities are more resistant to invasion.
 
-Looking for Indices:
-Tokens: Studies of natural ecosystems, from plant to microbial communities, have found that more diverse communities are more resistant to invasion
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1418,37 +926,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1478,37 +955,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1540,37 +986,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1604,37 +1019,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -1670,26 +1054,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -1728,23 +1092,6 @@ Santiy Check
 SpaCy Sentence: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification
 TaxoNerd Sentence: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
 
-Looking for Indices:
-Tokens: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['provides']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['provides']
@@ -1786,26 +1133,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -1847,26 +1174,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -1908,26 +1215,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -1969,26 +1256,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2030,26 +1297,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2091,26 +1338,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2152,26 +1379,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2213,26 +1420,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2274,26 +1461,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2335,26 +1502,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2396,26 +1543,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['consumption']
@@ -2457,26 +1584,6 @@ Santiy Check
 SpaCy Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
 TaxoNerd Sentence: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption.
 
-Looking for Indices:
-Tokens: The invasion resistance of the algae-ciliate community arises from a higher-order interaction between species (interaction modification) that is unrelated to resource consumption
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consumption']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -2517,24 +1624,6 @@ Santiy Check
 SpaCy Sentence: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation
 TaxoNerd Sentence: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation.
 
-Looking for Indices:
-Tokens: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -2575,24 +1664,6 @@ Santiy Check
 SpaCy Sentence: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation
 TaxoNerd Sentence: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation.
 
-Looking for Indices:
-Tokens: We show that the mode of this interaction is the algal inhibition of bacterial aggregation, which leaves bacteria vulnerable to predation
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -2632,37 +1703,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -2702,37 +1742,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -2772,37 +1781,6 @@ Santiy Check
 SpaCy Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
 TaxoNerd Sentence: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present.
 
-Looking for Indices:
-Tokens: We show that Escherichia coli can successfully invade cultures of the alga Chlamydomonas reinhardtii (phototroph) or the ciliate Tetrahymena thermophila (predator) but cannot invade a community where both are present
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: []
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -2842,23 +1820,6 @@ Santiy Check
 SpaCy Sentence: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification
 TaxoNerd Sentence: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
 
-Looking for Indices:
-Tokens: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['provides']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['provides']
@@ -2899,23 +1860,6 @@ Santiy Check
 SpaCy Sentence: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification
 TaxoNerd Sentence: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification.
 
-Looking for Indices:
-Tokens: This mode requires both the algae and the ciliate to be present and provides an example of invasion resistance through an interaction modification
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['provides']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['provides']
@@ -2949,6 +1893,8 @@ Load Cluster Map:
 Cluster:
 [['We', 'we', 'our'], ['mayfly prey', 'the prey', 'the prey'], ['both multiple predator combinations', 'the two multiple predator combinations'], ['our system', 'this system']]
 
+Species Spans
+(species, species, hellgrammites, greenside darters, creek chubs, mayfly prey, species, species, species)
 Cluster Map:
 We: [we, our]
 we: [We, our]
@@ -3007,23 +1953,6 @@ Santiy Check
 SpaCy Sentence: Investigating how prey density influences a prey’s combined predation risk from multiple predator species is critical for understanding the widespread importance of multiple predator effects
 TaxoNerd Sentence: Investigating how prey density influences a prey’s combined predation risk from multiple predator species is critical for understanding the widespread importance of multiple predator effects.
 
-Looking for Indices:
-Tokens: Investigating how prey density influences a prey’s combined predation risk from multiple predator species is critical for understanding the widespread importance of multiple predator effects
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['combined', 'understanding']
 Change (Causative) Verbs on L-Side of Current Species: ['combined']
 Change (Causative) Verbs on R-Side of Current Species: ['understanding']
@@ -3056,37 +1985,6 @@ Santiy Check
 SpaCy Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
 TaxoNerd Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
 
-Looking for Indices:
-Tokens: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['consisting', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3115,37 +2013,6 @@ Santiy Check
 SpaCy Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
 TaxoNerd Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
 
-Looking for Indices:
-Tokens: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['consisting', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3176,37 +2043,6 @@ Santiy Check
 SpaCy Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
 TaxoNerd Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
 
-Looking for Indices:
-Tokens: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['consisting', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3239,37 +2075,6 @@ Santiy Check
 SpaCy Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
 TaxoNerd Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
 
-Looking for Indices:
-Tokens: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['consisting', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3304,37 +2109,6 @@ Santiy Check
 SpaCy Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
 TaxoNerd Sentence: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey.
 
-Looking for Indices:
-Tokens: We conducted experiments that crossed six treatments consisting of zero, one, or two predator species (hellgrammites, greenside darters, and creek chubs) with three treat ments in which we varied the density of mayfly prey
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consisting', 'experiments']
 Change (Causative) Verbs on L-Side of Current Species: ['consisting', 'experiments']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3370,36 +2144,6 @@ Santiy Check
 SpaCy Sentence: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density
 TaxoNerd Sentence: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
 
-Looking for Indices:
-Tokens: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['combinations', 'resulted', 'reduction']
 Change (Causative) Verbs on L-Side of Current Species: []
 Change (Causative) Verbs on R-Side of Current Species: ['resulted', 'combinations', 'reduction']
@@ -3435,32 +2179,6 @@ Santiy Check
 SpaCy Sentence: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent
 TaxoNerd Sentence: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
 
-Looking for Indices:
-Tokens: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consequences', 'resulting', 'reduction']
 Change (Causative) Verbs on L-Side of Current Species: ['reduction', 'resulting', 'consequences']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3496,30 +2214,6 @@ Santiy Check
 SpaCy Sentence: As a result, models predicting the combined risk from multiple predator species in this system will sometimes need to account for prey density as a factor influencing per-capita prey death rates
 TaxoNerd Sentence: As a result, models predicting the combined risk from multiple predator species in this system will sometimes need to account for prey density as a factor influencing per-capita prey death rates.
 
-Looking for Indices:
-Tokens: As a result, models predicting the combined risk from multiple predator species in this system will sometimes need to account for prey density as a factor influencing per-capita prey death rates
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['combined', 'result']
 Change (Causative) Verbs on L-Side of Current Species: ['combined', 'result']
 Change (Causative) Verbs on R-Side of Current Species: []
@@ -3559,36 +2253,6 @@ Santiy Check
 SpaCy Sentence: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density
 TaxoNerd Sentence: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
 
-Looking for Indices:
-Tokens: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['combinations', 'resulted', 'reduction']
 Change (Causative) Verbs on L-Side of Current Species: ['resulted', 'reduction']
 Change (Causative) Verbs on R-Side of Current Species: ['combinations']
@@ -3627,36 +2291,6 @@ Santiy Check
 SpaCy Sentence: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density
 TaxoNerd Sentence: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density.
 
-Looking for Indices:
-Tokens: None of the multiple predator effects in our system were independent, and instead, the presence of multiple predator species resulted in risk reduction for the prey across both multiple predator combinations and all three levels of prey density
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['combinations', 'resulted', 'reduction']
 Change (Causative) Verbs on L-Side of Current Species: ['resulted', 'reduction']
 Change (Causative) Verbs on R-Side of Current Species: ['combinations']
@@ -3695,32 +2329,6 @@ Santiy Check
 SpaCy Sentence: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent
 TaxoNerd Sentence: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
 
-Looking for Indices:
-Tokens: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consequences', 'resulting', 'reduction']
 Change (Causative) Verbs on L-Side of Current Species: ['reduction', 'consequences']
 Change (Causative) Verbs on R-Side of Current Species: ['resulting']
@@ -3759,32 +2367,6 @@ Santiy Check
 SpaCy Sentence: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent
 TaxoNerd Sentence: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent.
 
-Looking for Indices:
-Tokens: Risk reduction is likely to have population-level consequences for the prey, resulting in larger prey populations than would be pre dicted if the effects of multiple predator species were independent
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
-	Token Doesn't Count, Continue
 Change (Causative) Verbs in Sentence: ['consequences', 'resulting', 'reduction']
 Change (Causative) Verbs on L-Side of Current Species: ['reduction', 'consequences']
 Change (Causative) Verbs on R-Side of Current Species: ['resulting']
