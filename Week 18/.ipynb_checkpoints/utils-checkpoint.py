@@ -9,7 +9,7 @@ def store_scored_dataset(dataset, name, version=''):
 
 def load_preprocessed_dataset(name):
     # Load Dataset
-    data = pd.read_csv(f"../Week 16/Datasets/{name}.csv")
+    data = pd.read_csv(f"../../Week 16/Datasets/{name}.csv")
     print(f"Data Shape: {data.shape}")
 
     if data.shape[0] == 0:
@@ -42,7 +42,7 @@ def load_preprocessed_dataset(name):
 # is the highest rating, which indicates that the paper probably contains a TMII example.
 # This is the scoring that was being used, so I am going with the flow here. However, if you want 
 # to count papers that had a score of 2 as a TMII example candidate, then you can use this parameter.
-def measure_method_by_threshold(*, output_fp, target_fp="../Week 16/Scores/Baseline-1-BingKan.csv", output_threshold=1.0, target_threshold=3, verbose=False, reverse=False):
+def measure_method_by_threshold(*, output_fp, target_fp="../../Week 16/Scores/Baseline-1-BingKan.csv", output_threshold=1.0, target_threshold=3, verbose=False, reverse=False):
     target_df = pd.read_csv(target_fp)
     output_df = pd.read_csv(output_fp)
 
@@ -104,7 +104,7 @@ def measure_method_by_threshold(*, output_fp, target_fp="../Week 16/Scores/Basel
 # The target_fp filepath would be the name of a file in the 'Scores' folder.
 # Each filepath/filename should lead to a CSV file that contains 'Title' and 'Score' as columns.
 # Refer to the comments above for the target_threshold meaning (or the comments below).
-def measure_method_by_class(*, output_fp, target_fp="../Week 16/Scores/Baseline-1-BingKan.csv", target_threshold=3, verbose=False):
+def measure_method_by_class(*, output_fp, target_fp="../../Week 16/Scores/Baseline-1-BingKan.csv", target_threshold=3, verbose=False):
     target_df = pd.read_csv(target_fp)
     output_df = pd.read_csv(output_fp)
 
