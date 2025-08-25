@@ -1,0 +1,36 @@
+Experiment
+1: I'm noticing that "hypothesis" is flagged as a non-experiment word, which is not correct. Therefore, I'll use literals instead of similarity.
+2: After the changes, the papers that were flagged as theory had high points, this is not good. Looking at the experimental words, you could weakly argue that verbs are more related to the paper's experimentalness (i.e., where something is being done). Therefore, we could give the verbs more points than the non-verbs. Verbs will get the full PIC, non-verbs will get half the PIC.
+3: This did not produce good results. The leniency for the experiment category is already 0.5. Maybe that's not a good thing. I'll remove the leniency to see what happens.
+4: Not happy with this results either, it seems like the results of thiz category relied on an error. I'm going to set PIC to 1, and add the leniency (0.5) back.
+5: Bah. Not good. I see that the word "model" tends to be thrown around in the theory review, so I'll add that to the not-experiment keywords and remove it from the experiment keywords.
+6: Technically, it worked, but this would definitely be overfitting were we a model. I need to read the abstracts in specific to get a better idea, I will do it later. I'm doing it now, but I've removed the model changes.
+
+Species:
+1: There's 0.5 leniency on this category, which I don't think is needed. I'm going to lower it to 0.1 and see what the results are.
+2: 2/6 of the good papers received lower points. I'll raise the leniency to 0.25.
+3: Not bueno, I've put it back to 0.5. I'm fine with this category. The question is whether it's a significant category? If it's supposed to track the species without the text, looking purely at a sentence would kind of be shooting itself in the foot. However, we do require three species to be mentioned throughout the entire text at the end.
+
+Interaction:
+1: I'm going to add 0.2 leniency, and see where it goes.
+2: Doesn't make any meaningful changes. I'll add the fix, which I cannot remember, to the interaction.
+3: Nothing remarkable. I don't think there's much I can do for this category? Perhaps I could require a cause or a change.
+4: Nope. I've removed that change.
+5: It's back to normal, I just want to be able to see the points being awarded, so I'm trying to store that in the Excel sheet.
+6: Yeah, the search species string isn't perfect, but I'm just going to move on. Hopefully, it's not too bad.
+7: I've fixed it so that it adds the first species encountered as well.
+8: Okay, had to make sure and tweak some things. Anyway, I'm going to try and require 2 instances instead of 3. This is because relationships between species may not include all three in one sentence.
+9: I like these results, I'll leave it here. However, out of curiosity, I want to require a cause/change word.
+10: Yeah, it doesn't seem promising, but to make sure, I'll include the cause/change words. Then, I'll see whether it's not a good idea or there's something bad going on.
+11: Eh, not impressed. I'll just remove it.
+
+Trait:
+1: I wanted to do something more specific, like requiring an ADP (e.g., "of", "in") if the species is not right next to the trait, but I felt like that would not be able to grasp the different ways people may describe or word a trait. However, I could require that the supposed trait is the last of the noun chunk, if there is a noun chunk. Maybe this is just an edge case, but this edge case is getting under my skin.
+2: Well, it did work for the edge case, I'm not seeing any glaring issues. I'm not going to add more restrictive rules, I'd think it might backfire. However, I now need to work on the beast: trait variation. One thing that I haven't yet figured out is the indirectness -- not that I've figured out anything at all. I do need to add other words like "content" and "presence".
+NOTE: I did try to merge traits and count the number of unique traits in a prior 'experiment', just trying something out really, but I forgot to move it over to the actual. I'm not sure if I should include it. I might just leave it there. At least, I am for now.
+It looks like I might have to tweak the traits. I'm going to tweak the traits. Accidentally overwrote a prior file, but it's okay... Me thinks. I'm going to start from 4, not sure which file has what changes now my bad.
+3: It looks okay, the examples are doing better.
+
+Trait Variation:
+1: Looking at it, it's fine. However, it's not really understanding what's going on in the text. Just doing some guess work, which may be fine. However, what if I could just get some basic relationships, like A and B, B and C, and so on and so forth. But, what would I do with that information? I think I'll put this off, I'll work on it if I wrap this up. 3/4 of the papers in the example set aren't getting any points. I wonder why.
+2: This got muddled as I accidentally wrote over files. Anyway, things got looser, that's all. It's a lot easier to get high points for this category, which is not good. The rules I've set out don't grasp trait variation, but it is what it is. I'll change the bins though.
